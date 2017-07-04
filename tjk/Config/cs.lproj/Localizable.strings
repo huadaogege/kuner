@@ -1,0 +1,847 @@
+
+sysDelete                    = "Smazat";
+sysCopy                      = "Kopírovat";
+sysCopyError                 = "Chyba kopírování";
+sysDeleteError               = "Chyba smazání";
+sysNoFree                    = "Nedostatek místa v pouzdře Kuke";
+
+photoIntoError               = "Chyba importu";
+
+time_h                       = "hod";
+time_min                     = "min";
+
+copymaintitle                = "Kuke";
+
+main_nowU                    = "Režim přenosu dat z PC";
+
+main_longSize                = "Přenos mezi Kuke pouzdrem a PC \n jako USB disk";
+
+main_linkLongSize            = "Přenos mezi Kuke pouzdrem a PC \n jako USB disk";
+
+checkupdate                  = "Zkontrolovat aktualizace";
+
+about                        = "O nás";
+
+feedback                     = "Zpětná vazba";
+
+deleteing                    = "Smazání...";
+
+deleteingOn                  = "Smazání";
+
+gujianv                      = "Verze firmwaru";
+
+snl                          = "SN";
+
+privatel                     = "Zásady ochrany osobních údajů";
+
+music                        = "Hudba";
+
+rootPath                     = "Správce souborů";
+
+delete                       = "Smazat";
+
+cancel                       = "Zrušit";
+
+phone                        = "iPhone";
+
+kuner                        = "Kuke";
+
+done                         = "Zrušit";
+
+dataasync                   = "Připojování...";
+
+switching                    = "Přepínání...";
+
+newfoldertitle               = "Vytvořit složku";
+
+newfodercreating            = "Vytvářím...";
+
+inputfoldername              = "Vytvořte jméno pro složku";
+
+newfolder                    = "Nový";
+
+folder                       = "Složka";
+
+newfolderfail                = "Vytváření selhalo";
+
+checkall                     = "Vybrat vše";
+
+photo_empty                 = "Žádný obsah ve složce fotky";
+
+pleasreopen                 = "Prosím vytvořte nové album";
+
+picture_tishione            = "Povolte Kuke přístup k vašim fotkám, zapněte Soukromí -> Fotky -> Kuke v nastavení pouzdra，";
+
+picture_tishitwo            = "Kuke žádá o přístup k vašim fotkám";
+
+copy                         = "Kopírovat";
+
+copyhere                     = "Kopírovat do";
+
+importpic                    = "Importovat";
+
+newpic                      = "Nové album";
+
+importhere                  = "Importovat";
+
+exportpic                   = "Exportovat do iPhone";
+
+exporthere                   = "Exportovat";
+
+movetoPhone                  = "Exportovat do alba";
+
+export                       = "Exportovat";
+
+picture                      = "Fotky";
+
+video                        = "Videa";
+
+files                        = "Soubor";
+
+now                          = "Zpracováno";
+
+hardversion                  = "Verze firmwaru";
+
+setting                      = "Nastavení";
+
+kunercapacity                = "Úložný prostor pouzdra Kuke";
+
+kunerpower                   = "Kapacita baterie pouzdra Kuke";
+
+mymusic                      = "Hudba";
+
+versionupdating              = "Aktualizace";
+
+kelinkbroken                = "Pouzdro Kuke odpojeno";
+
+formatting                   = "Formátuji pouzdro Kuke";
+
+safenumber                   = "Nastavování bezpečnostního kódu";
+
+aboutkuner                   = "O Kuke";
+
+capacity                     = "Úložný prostor";
+
+unsafebind                   = "Neomezeno";
+
+safebind                     = "Omezeno";
+
+kunerdilatation              = "Kuke";
+
+chooseedpicture              = " Vybrané ";
+
+unknowfile                  = "Nerozpoznatelný formát";
+
+firnillname                 = "Název složky nesmí být prázdný";
+
+movplayfail                  = "Otevření selhalo";
+
+direxisted                  = "Soubor s tímto jménem již existuje";
+
+copypictureyes               = "Jste si jisti že chcete kopírovat vybraný soubor?";
+
+calculatefiles               = "Vypočítávám velikost souborů...";
+
+copyingpicture               = "Kopíruji...";
+
+updating                     = "Aktualizuji...";
+
+checkfail_again              = "Kontrola aktualizací selhala, prosím zkuste později.";
+
+updatefail                   = "Aktualizace selhala";
+
+serverfail_again             = "Síťové připojení selhalo. Prosím zkuste později";
+
+updatefail_again             = "Aktualizace selhala. Prosím zkuste později";
+
+update_success               = "Úspěšná aktualizace";
+
+updatefail_check_again       = "Aktualizace selhala. Prosím zkontrolujte síť a zkuste znovu.";
+
+checkfail_timeout_again      = "Kontrola aktualizací selhala, vypršel časový limit požadavku, zkuste znovu";
+
+checkfail_checkserveragain   = "Kontrola aktualizací selhala. Prosím zkontrolujte síť a zkuste znovu";
+
+checking                     = "Kontroluji...";
+
+formaty                      = "Chcete formátovat pouzdro Kuke?";
+
+importsafetobind             = "Vložte bezpečnostní kód pro propojení";
+
+findnew                      = "Nalezena nová verze";
+
+context                      = "Aktualizovat obsah";
+
+formatting_wait              = "Formátování...";
+
+importsafetounbind           = "Vložte bezpečnostní kód pro zrušení párování s iPhonem";
+
+updated                      = "Nainstalováno";
+
+unupdated                    = "Nenainstalováno";
+
+filesbad_format              = "Souborový systém je poškozen a vyžaduje zformátování";
+
+sure                         = "OK";
+
+formatwilldeleteall_copy     = "Jste si jisti že chcete zformátovat pozdro Kuke?";
+
+fail                         = "Chyba";
+
+copyfail                     = "Kopírování selhalo";
+
+moveoutfail                  = "Export selhal";
+
+moveoutfailbig               = "Export selhal: velikost souboru je větší než 500MB";
+
+moveoutfailspace             = "Export selhal: nedostatek místa v iPhonu.";
+
+again                        = "Opakovat";
+
+jump                         = "Přeskočit";
+
+ignore                       = "Ignorovat";
+
+pleaseselect                 = "Vybrat";
+
+copyfilesy                   = "Jste si jisti že chcete kopírovat vybraný soubor?";
+
+deletealert                  = "Smazat";
+
+deletefilesy                 = "Jste si jisti že chcete smazat vybrané soubory?";
+
+deletefilea                  = "Jste si jisti že chcete soubor smazat?";
+deletefileb                  = "？";
+
+calculate                    = "Vypočítávám velikost souborů...";
+
+deleting                     = "Mazání";
+
+myvideo                      = "Videa";
+
+voice                        = "Hudba";
+
+copymusicy                   = "Jste si jistí že chcete kopírovat vybrané soubory?";
+
+copying_voice                = "Kopíruji...";
+
+copyfail_exit                = "Kopírování selhalo";
+
+connectkuner                 = "Připojit k pouzdru Kuke";
+
+connecting_wait              = "Připojuji...";
+
+safenumbercheck              = "Ověření bezpečnostního kódu";
+
+imputsafenumber              = "Zadejte bezpečnostní kód";
+
+checknumber                  = "Ověřovací kód";
+
+safenum                      = "Bezpečnostní kód";
+
+safenumberfault              = "Neplatný bezpečnostní kód";
+
+select                       = "Vybrat";
+
+edit                         = "Upravit";
+
+deletepicture                = "Jste si jisti že chcete odstranit vybrané soubory?";
+
+loading                      = "Načítání...";
+
+yes                          = "OK";
+
+no                           = "Zrušit";
+
+deletethispicture            = "Jste si jisti že chcete odstranit vybrané soubory?";
+
+fault                        = "Chyba";
+
+unopenfiles                  = "Nelze otevřít soubor";
+
+know                         = "Známý";
+
+back                         = "Zpět";
+
+tips                         = "Tip";
+
+gpsnotice                   = "Aktuálně jste na mobilní síti, potvrdit stažení souboru? ";
+
+netchangenotice             = "Aktuálně jste na mobilní síti, chcete pokračovat ve stahování souboru？";
+
+unsupportfilelayout          = "Nepodporovaný typ souboru.";
+
+deletethesongy               = "Jste si jisti že chcete odstranit vybrané soubory?";
+
+nopicture                    = "Žádný obsah v iPhonu";
+
+copypicturey                = "Jste si jisti že chcete kopírovat vybrané soubory？";
+
+deleteselectpicturey        = "Jste si jisti že chcete smazat vybrané soubory？";
+
+document                     = "Dokumenty";
+
+inportsafenumbertounbinding  = "Zadejte bezpečnostní kód pro spárování iPhonu a Kuke pouzdra";
+
+notips                       = "Znovu nepřipomínat";
+
+inport6number                = "Prosím, vložte 6 čísel nebo písmen";
+
+updatenow                    = "Aktualizovat nyní";
+
+donotupdate                  = "Odložit ";
+
+checkupdate                  = "Zkontrolovat aktualizace";
+
+nonewversion                 = "Vaše verze je aktuální.";
+
+closekukeu                   = "Připojit k iPhonu";
+
+changekukeu                  = "Připojit k PC";
+
+allgb                        = "Celkem ";
+
+redaygb                      = "Využito";
+
+canuse                       = "Dostupný";
+
+suanzhong                    = "Vypočítávám...";
+
+shengyudianliang             = "Zbívající energie v pouzdře";
+
+unknown                      = "Neznámé";
+
+calculating                  = "Vypočítávám...";
+
+surpluspower                 = "Zbývající úložný prostor";
+
+myfile                       = "Soubor";
+
+areyoucopy                   = "Jste si jisti že chcete kopírovat vybrané soubory?";
+
+areyoudelete                 = "Jste si jisti že chcete odstranit vybrané soubory?";
+
+isplaying                    = "Přehrávám";
+
+selectpicture                = "Vybráno";
+
+format_surey                 = "Formátování smaže veškerý obsah a nastavení. Prosím potvrďte znovu";
+
+formatagainy                 = "Přejete si znovu formátovat?";
+
+formatdone                   = "Formátování dokončeno";
+
+safenumberfault_again        = "Nesprávný bezpečnostní kód. Prosím zkuste znovu.";
+
+selected                     = "Vybráno";
+
+copypicturefinish            = "Kopírování dokončeno";
+
+formatfinish                 = "Formátování dokončeno";
+
+safenum_length_short         = "Heslo musí obsahovat nejméně 6 znaků, prosím zkuste znovu.";
+
+phpower                      = "iPhone kapacita baterie";
+
+phcapacity                   = "iPhone kapacita paměti";
+
+phcpu                        = "Vytížení CPU";
+
+phram                        = "iPhone RAM";
+
+phused                       = "Využito";
+
+phfree                       = "Dostupné";
+
+phof                         = "";
+
+phversion                    = "Verze systému";
+
+phcanuse                     = "Dostupné";
+
+phtotal                      = "Celkem";
+
+phminute                     = "Min";
+
+phhour                       = "hod";
+
+songisnone                   = "Nyní přehrávám";
+
+appversion                   = "Verze softwaru";
+
+gujianversion                = "Verze firmwaru";
+
+importantnotice              = "Pouzdro Kuke je aktivováno";
+
+importantmsg                 = "Cache Kuke aplikace bude automaticky přeneseny do Kuke pouzdra.";
+
+movephoto                    = "Exportuje z iPhonu do pouzdra Kuke...";
+
+deletephoto                  = "Čistím cache paměť v aplikaci Kuke...";
+
+movevideo                    = "Exportuji z iPhonu do zařízení Kuke...";
+
+deletevideo                  = "Čistím cache paměť v aplikaci Kuke...";
+
+movemusic                    = "Čistím cache paměť v aplikaci Kuke...";
+
+deletemusic                  = "Čistím cache paměť v aplikaci Kuke...";
+
+movedoc                      = "Exportuji z iPhonu do pouzdra Kuke...";
+
+moveother                    = "Exportuji z iPhonu do pouzdra Kuke...";
+
+openway                      = "Otevřít";
+
+deletedoc                    = "Čistím cache paměť v Kuke aplikaci...";
+
+deleteother                  = "Čistím cache paměť v Kuke aplikaci...";
+
+gujianxinxi                  = "Firmware Info";
+
+pluspower                    = "Kuke baterie";
+
+powering                     = "Kuke pouzdro se nabíjí";
+
+powerfull                    = "Plně nabito";
+
+getsizerror                  = "Selhalo čtení dat";
+
+loadsizeing                  = "načítám...";
+
+adding                       = "načítám...";
+
+setting                      = "Nastavení";
+
+resourceDownload             = "Zdroje staženy";
+
+lastupdatetime               = "Čas posledního obnovení";
+
+releasetorefresh             = "Uvolněte pro obnovení stránky";
+
+pulltorefresh                = "Posuňte dolů pro obnovení stránky";
+
+refreshing                   = "Obnovuji...";
+
+newversion                   = "Nová verze";
+
+updateThing                  = "Aktualizovat obsah:";
+
+browse                       = "Prohlížeč";
+
+read                         = "Číst";
+
+readying                     = "Načítání...";
+
+readyfail                    = "Není připraveno, vyzkoušejte později";
+
+browsestatus                 = "Prohlížecí režim";
+
+readingstatus                = "Čtecí režim";
+
+close                        = "Zavřít";
+
+loadingfail                  = "Načítání stránky selhalo";
+
+checknetandtryrefresh       = "Prosím zkontrolujte síť a zkuste posunout dolů pro obnovení";
+
+downtoke                     = "Stáhnout do Kuke pouzdra";
+
+downtophone                  = "Stáhnout do iPhonu";
+
+indownloadlist               = "Přidáno mezi stažené";
+
+checknetandtryagain          = "Prosím zkontrolujte síť a zkuste znovu!";
+
+sorry                        = "Omlouvám se";
+
+cannotplay                   = "Skladbu nelze přehrát";
+
+nextsong                     = "Další";
+
+gofindmusic                  = "Žádné přehrávání";
+
+playmusicround               = "Smyčka";
+
+playmusicone                 = "Jedna";
+
+playmusicrandom              = "Zamíchat";
+
+operatetoofast               = "Příliš časté zadání příkazu";
+
+nowmusiclist                 = "Playlist";
+
+selectmusic                  = "Vybrat playlist";
+
+selectcountunit             = "";
+
+downloadlist                 = "Ke stažení";
+
+allstart                     = "Spustit vše";
+
+allpause                     = "Pozastavit vše";
+
+downloading                  = "Stahuji";
+
+downloaded                   = "Dokončené";
+
+suretodeletedownloadunit     = "Potvrdit smazání vybraného úkolu?";
+
+pause                        = "Pozastavit";
+
+downloadfail                 = "Stahování selhalo";
+
+downloadfailwithouturl      = "Stahování selhalo. Žádná url";
+
+waiting                      = "Čekám...";
+
+notinstallwx                = "Ještě jste nenainstalovali aplikaci WeChat";
+
+wxversionlowtip             = "Omlouváme se, vaše verze WeChat je příliš stará pro funkci sdílení";
+
+imageistoobig                = "Komprimovaná fotka je příliš velká";
+
+notplace                    = "Nedostačující paměť";
+
+deletecachefile              = "Mazání dočasných souborů";
+
+formatekuke                  = "Formátuji";
+
+kukesavingmodel              = "Režim úspory baterie";
+
+closesecret                  = "Zavřít bezpečnostní kód";
+
+opensecret                   = "Bezpečnostní kód";
+
+issuretodelete              = "Potvrdit smazání souborů？";
+
+formattipone                 = "Jestliže jste používali heslo, bude automaticky zrušeno po formátování.";
+
+formattiptwo                 = "Kuke automaticky zruší fungování hesla, nová data nebudou chráněna! ";
+
+formattipthree               = "Trvale ztratíte obrázky, videa, hudbu, dokumenty a další";
+
+formattipfour                = "Toto smaže všechna média, dokumenty a resetuje nastavení a bezpečnostní heslo";
+
+formattiptosure              = "Vymazat veškerý obsah a nastavení";
+
+inputsecret                  = "Zadejte bezpečnostní kód";
+
+setsecret                    = "Nastavit bezpečnostní kód";
+
+checksecret                  = "Zadejte znovu váš bezpečnostní kód";
+
+findsecret                   = "Obnovit bezpečnostní kód";
+
+setsecrettipone              = "Nastavit heslo pro ochránu soukromí";
+
+setsecrettiptwo              = "Ostatní iPhony připojující se k vašemu pouzdru Kuke nejsou schopny vidět soubory chráněné heslem.";
+
+faultsecret                  = "Nesprávně";
+
+useqtoclosesecret            = "Použít heslo ke zrušení bezpečnostního kódu";
+
+entersecret                  = "Zadejte bezpečnostní heslo";
+
+forgetsecret                 = "zapomněl";
+
+enterq                       = "Zodpovědět bezpečnostní otázku";
+
+thesecret                    = "Bezpečnostní kód je";
+
+setquestion                  = "Nastavit bezpečnostní kód";
+
+secretnotsame                = "Hesla se neshodují. Zadejte znovu";
+
+closesecretsuccess           = "Bezpečnostní kód byl úspěšně zrušen";
+
+closesecretfail              = "Zrušení bezpečnostního kódu selhalo";
+
+secretquestion               = "Otázka";
+
+selectquestion               = "Vybrat bezpečnostní otázku";
+
+answerofq                    = "Odpoěď";
+
+enteranswerofq               = "Zadejte odpověď (1 ~ 25 znaků)";
+
+otherq                       = "Další";
+
+questionone                  = "Jaké je vaše nejoblíbenější město?";
+questiontwo                  = "Jaký den jsou narozeniny vašeho otce?";
+questionthree                = "Jaký den jsou narozeniny vaší matky?";
+questionfour                 = "Jaké je vaše nejoblíbenější zvíře?";
+questionfive                 = "Jaký je váš nejoblíbenejší interpret?";
+questionsix                  = "Jaký je váš nejoblíbenější fotbalový tým?";
+questionseven                = "Jaká je vaše vysněná práce?";
+questioneight                = "Jaké je vaše studentské číslo?";
+questionnine                 = "Jaké je tel. číslo do zaměstnání?";
+questionten                  = "Kde jste se narodili?";
+questioneleven               = "Jak se jmenuje váš otec?";
+questiontwelve               = "Jak se jmenuje vaše matka?";
+
+selectq                      = "Vybrat otázku:";
+
+keepuseoldsecret             = "Pokračovat v používání starého hesla?";
+
+resetsecret                  = "Nastavit nový bezpečnostní kód";
+
+faultquestion                = "Nesprávná odpověď na bezpečnostní otázku";
+
+issuretosetsecret            = "Potvrdit nastavení hesla?";
+
+setsecrettip                 = "Heslo zabezpeční ochranu dat v pouzdře Kuke; pokud heslo zapomenete, nebude možné jej obnovit";
+
+formattingTips              = "Když zapomenete heslo a bezpečnostní nastavení, musíte pro pokračování provést zformátování pouzdra Kuke. Prosím vyberte volbu—>";
+
+formatkuke                  = "Formátovat pouzdro Kuke";
+
+suretosetsecretquestion     = "Bezpečnostní otázka a odpověď jsou limitovány 1-25 znaky.";
+
+setsecretsuccess             = "Bezpečnostní kód úspěšně nastaven";
+
+setsecretfail                = "Nastavení bezpečnostního kódu selhalo";
+
+entersecretquestion          = "Zadejte bezpečnostní otázku (1-25 znaků)";
+
+cooperate                    = "Spojte se s námi";
+
+formatdefault               = "Formátovat";
+
+selectfile                  = "Vybrat soubory";
+
+musicdirnamenotempty        = "Seznam skladeb nemůže být vyprázdněn!";
+
+photodirnamenotempty         = "Název alba nemůže být prázdnný";
+
+namecontantunuseablechar     = "Jméno obsahuje zakázané znaky";
+
+existmusicdirname            = "Playlist již existuje";
+
+existphotodirname            = "Album již existuje";
+
+createfail                   = "Vytvoření selhalo";
+
+createmusicdirname           = "Nový playlist";
+
+entermusicdirname            = "Zadejte jméno playlistu";
+
+createphotodirname           = "Nové album";
+
+enterphotodirname            = "Zadejte jméno pro album";
+
+openunknowfileusethirdAPP    = "Souborový typ není rozpoznán, chcete jej otevřít pomocí jiné aplikace?";
+
+yesto                        = "Ano";
+
+notto                        = "Ne";
+
+downloadnotcomplete          = "Stahování nedokončeno";
+
+musicdirname                 = "Playlist";
+
+photodirname                 = "Album";
+
+keunlink                     = "Pouzdro Kuke odpojeno";
+
+moveveidoout                 = "Exportovat videa z Kuke do iPhonu";
+
+selectvideo                  = "Vybrat";
+
+getting                      = "Získávání...";
+
+phonevideo                   = "iPhone video nahrávání";
+
+phonephoto                   = "iPhone album";
+
+phonenotvideotip             = "Prosím vytvořte album v iPhonu pro uložení exportovaných videí";
+
+photounabletosys             = "Fotky nemohou být exportovány do alb";
+
+phonenotvideotiptwo          = "Žádná videa v albech";
+
+shareto                      = "Sdílet do";
+
+wxfriend                     = "WeChat přátelé";
+
+wxcircle                     = "Momenty";
+
+sorrytosharegif              = "Omlováme se, GIF formát nelze sdílet";
+
+notgetphotodetail            = "Nelze načíst info k fotografii. Prosím zkuste později";
+
+lowpowertiptitle             = "Upozornění na nízkou baterii";
+
+tenpecentpowertip            = "10% zbývající baterie. Prosím nabijte pouzdro Kuke.";
+
+belowtenpecentpowertip       = "Pouzdro Kuke má méně jak 10% zbývající baterie.";
+
+existdirwhencopydir          = "Kuke pouzdro odpojeno, smazání selhaloKuke pouzdro odpojeno, smazání selhalo";
+
+deletefailforunlinkke        = "Kuke pouzdro odpojeno, smazání selhalo";
+
+opearateerror                = "Chyba operace";
+
+goontodo                     = "Pokračovat";
+
+allphoto                     = "Všechny obrázky";
+
+photohidden                  = "Schovat";
+
+photobig                     = "Panoramatické fotky";
+
+photocollect                 = "Kolekce";
+
+photodelete                  = "Nedávno smazáno";
+
+photoall                     = "Kamera";
+
+photodelay                   = "Časosběrné video";
+
+photoslow                    = "Zpomalený záběr";
+
+photoadd                     = "Nedávno přidané";
+
+photolian                    = "Série snímků";
+
+importfail                   = "Import selhal";
+
+importfailoffile             = "Nemohu získat soubor";
+
+importfailofbigfile         = "Import selhal, soubor je příliž velký ( více než 4GB)";
+
+importphoto                  = "Importuji";
+
+importvideo                  = "Importuji";
+
+localnotitipone              = "Nové fotky nalezeny, provést import do pouzdra Kuke";
+
+localnotitiptwo             = "Nedostačující místo v iPhonu! Prosím použijte pouzdro Kuke pro stažení videí a hudby, k uvolnění místa v iPhonu";
+
+localnotitipthree           = "Videa, hudba a fotky jsou uloženy v pouzdře Kuke, uvolnit více místa v iPhonu.";
+
+gettingkukeinfo              = "Načítám...";
+
+readinfoerror                = "Čtení dat selhalo. Prosím zkuste zformátovat.";
+readinfoerrorforrestart     = "Čtení dat selhalo. Prosím zkuste restartovat aplikaci.";
+
+topicTitle                  = "Téma";
+
+videocacle                  = "该视频已缓存";
+
+musiccacle                  = "该音乐已缓存";
+
+selectvideocecle            = "选择下载的剧集";
+
+selectfilececle            = "选择下载的文件";
+
+
+dataClean                   = "手机空间清理";
+
+selectaudiocecle            = "选择下载的音乐";
+
+
+allcacle                    = "已全部缓存";
+
+versionnotips               = "此版本不再提示";
+
+deletedownloadedtip         = "文件已被删除，是否要删除此下载记录？";
+
+downloadbroken              = "酷壳已经断开，无法下载当前资源。";
+downloaderrorspace          = "酷壳空间不足，无法下载当前资源。";
+downloadtitle               = "下载提示";
+loadfailed                  = "加载失败，请重试";
+
+downloadingfulltip          = "当前已达下载任务上限（99个）,请稍后添加新的任务";
+downloadingtip              = "下载任务进行中";
+
+neterror =	"网络错误，请检查网络";
+
+downloadvideopath = "Stáhnout video";
+
+downloadaudiopath = "Stáhnout audio";
+
+downloadpicturepath = "Stáhnout obrázek";
+
+downloaddocumentpath = "Stáhnout dokument";
+
+updatetips = "Aktualizovat firmware";
+
+updatetipscontent = "Kuke pouzdro bude při aktualizaci odpojeno. Prosím ručně jej odpojte od telefonu na dobu 5s..";
+
+charge_model_know = "OK";
+charge_model_title = "Režím úspory baterie:";
+charge_model_msg = "1. K prodloužení výdrže pouzdra Kuke vypínejte pouzdro Kuke společně s iPhonem\n3. Nabíjení telefonu poté ustane po deseti minutách.";
+charge_model_msg_two = "K prodloužení výdrže pouzdra Kuke vypínejte pouzdro Kuke společně s iPhonem\n3. Nabíjení telefonu poté ustane po deseti minutách";
+
+pdf_cannotopen = "Velikost dokumentů více než 80 MB není podporována. Prosím otevřete jej pomocí speciální aplikace.";
+
+calculatefilessize              = "Vypočítávám velikost";
+
+share = "Sdílet";
+
+more = "Více";
+
+batterysaving = "Šetření baterie";
+
+downloadingpicmsg = "Obrázek se stahuje...";
+
+// 酷壳V1.2.5新增
+notshowtopictip      = "zvláštní témata nelze prokázat, na homepage";
+
+copyto               = "kopii spisu";
+
+savefield            = "zachránit pole";
+
+copynokuke           = "není spojen s kuke.prosím spojte kuke, pak znovu otevřít složku.";
+
+copysavetokuke       = "kopii a uložte soubor na památku kuke";
+
+musictimerplay       = "čas hraní";
+
+dontopen             = "Don 'příliš otevřená";
+
+playcurrentmusic     = "přestaň na současný výběr hudby";
+
+savetofeedback       = "zpětnou zprávu";
+
+weixinfeedback       = "wechat zpětnou vazbu";
+
+attentionweixin      = "za wechat veřejnosti účet kuke a krmit se problémy on - line.";
+
+weixinnum            = "wechat veřejný účet: kuner2016";
+
+copyed               = "už okopírovat";
+
+weixinkehufeed       = "wechat zákaznickou zpětnou vazbu";
+
+kehuphone            = "zákazník je servisní horká linka";
+
+takekefuphone        = "zavolej zákazník je servisní horká linka";
+
+phoneinfo            = "iphone informace";
+
+kukeofficemall       = "kuner oficiální obchod";
+
+sendkuketofd         = "doporučuji kuke s přítelem";
+
+gotoweixinfeedback   = "do wechat poskytnout zpětnou vazbu";
+
+dontsupportthetype   = "tohle nepodporuju typ souboru dočasně";
+
+useotherappopen      = "použijte, prosím, nějaké další aplikace otevřít složku";
+
+otherappopen         = "další aplikace otevřít";
+
+noplayingmusic       = "žádná muzika hraje v současné době";
+
+kukedisc                     = "zavedení kuke";
+openkuke                     = "prosím, otevři kuke";
+presspowerbtn                = "stiskněte a držte tlačítko power na základě kuke za 3 sekundy, otevřít";
+kukedisctitle                = "chcete použít paměťové funkce rozšíření bez zapnutí tlačítko power？>";
+
+tabuncopiedtitle             = "nejsou dováženy";
+tabcopiedtitle               = "dovážené";
+tabtotaltitle                = "všechny";
+
+

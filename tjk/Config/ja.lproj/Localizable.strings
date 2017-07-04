@@ -1,0 +1,859 @@
+
+sysDelete                   = "ファイルを削除";
+sysCopy                     = "ファイルをコピー";
+sysCopyError                = "コピーエラー";
+sysDeleteError              = "削除エラー";
+sysNoFree                   = "空き領域不足";
+
+photoIntoError              = "インポートエラー";
+
+time_h                      = "時間";
+time_min                    = "分";
+
+copymaintitle               = "マイKUKE";
+
+main_nowU                   = "PC接続モードです";
+
+main_longSize               = "KUKEのファイルをアクセスには、PCに接続しください";
+
+main_linkLongSize           = "PCで「KUKE」をUSBメモリとして開いてください";
+
+checkupdate                 = "更新チェック";
+
+about                       = "KUKEについて";
+
+feedback                    = "フィードバック";
+
+deleteing                   = "削除しています";
+
+dataClean                   = "メモリ領域をクリーニングしています";
+
+deleteingOn                 = "削除しています";
+
+gujianv                     = "ファームウェアVer.";
+
+snl                         = "S/N";
+
+privatel                    = "プライバシーに関する注意";
+
+music                       = "音楽";
+
+rootPath                    = "ファイルエクスプローラ";
+
+delete                      = "削除";
+
+cancel                      = "取消";
+
+phone                       = "iPhone";
+
+kuner                       = "KUKE";
+
+done                        = "取消";
+
+dataasync                   = "データ同期中...";
+
+switching                   = "切り替え中...";
+
+newfoldertitle              = "フォルダ新規作成";
+
+newfodercreating            = "作成中...";
+
+inputfoldername             = "フォルダの名前を入力してください";
+
+newfolder                   = "新規作成";
+
+folder                      = "フォルダ";
+
+newfolderfail               = "フォルダ作成エラー";
+
+checkall                    = "全て選択";
+
+photo_empty                 = "iPhoneのアルバムには写真がありません";
+
+pleasreopen                 = "新規アルバムを作成ください";
+
+picture_tishione            = "iPhoneの「設定/プライバシー/写真」で、";
+
+picture_tishitwo            = "KUKEのアクセス権を許可にしてください ";
+
+copy                        = "コピー";
+
+copying                     = "コピーしています";
+
+copyhere                    = "ここに貼り付け";
+
+importpic                   = "iPhoneからインポート";
+
+newpic                      = "新規アルバム";
+
+importhere                  = "インポート確認";
+
+exportpic                   = "iPhoneにエクスポート";
+
+exporthere                  = "エクスポート確認";
+
+movetoPhone                 = "写真をアルバムにエクスポート";
+
+export                      = "エクスポート";
+
+picture                     = "写真";
+
+video                       = "映像";
+
+files                       = "ファイル";
+
+now                         = "只今";
+
+hardversion                 = "ファームウェアバージョン";
+
+setting                     = "設定";
+
+kunercapacity               = "KUKEメモリ空間";
+
+kunerpower                  = "KUKEバッテリー残量";
+
+mymusic                     = "マイミュージック";
+
+versionupdating             = "バージョン更新";
+
+kelinkbroken                = "接続が切れました！";
+
+formatting                  = "KUKEのフォーマット";
+
+safenumber                  = "パスワード作成";
+
+aboutkuner                  = "KUKEについて";
+
+capacity                    = "残量";
+
+unsafebind                  = "関連していません";
+
+safebind                    = "関連しています";
+
+kunerdilatation             = "KUKE";
+
+chooseedpicture             = " 枚の写真を選択した";
+
+unknowfile                  = "認識できないフォーマット..";
+
+firnillname                 = "フォルダの名前を入力してください";
+
+movplayfail                 = "ビデオ再生エラー";
+
+direxisted                  = "フォルダが既にありました";
+
+copypictureyes              = "選択した写真をコピーしますか";
+
+calculatefiles              = "ファイルのサイズを計算しています";
+
+copyingpicture              = "写真をコピーしています";
+
+updating                    = "更新しています";
+
+checkfail_again             = "更新チェック失敗しました。しばらくしてからやり直してください。";
+
+updatefail                  = "更新が失敗しました";
+
+serverfail_again            = "接続エラーが発生しました。しばらくしてからやり直してください。";
+
+updatefail_again            = "更新をインストールできませんでした。しばらくしてからやり直してください。";
+
+update_success              = "更新成功";
+
+updatefail_check_again      = "更新チェックが失敗しました。ネットワークをチェックしてからやり直してください。";
+
+checkfail_timeout_again     = "タイムアウトして、更新チェックが失敗しました。やり直してください。";
+
+checkfail_checkserveragain  = "更新チェックが失敗しました。ネットワークをチェックしてからやり直してください。";
+
+checking                    = "チェック中です。しばらく待ってください…";
+
+formaty                     = " KUKEをフォーマットします。";
+
+importsafetobind            = "iPhoneとKUKEを関連するには、パスワードを入力してください";
+
+findnew                     = "新たなバージョンがありました。";
+
+context                     = "What’s New";
+
+formatting_wait             = "フォーマットしています。少々待ってください。";
+
+importsafetounbind          = "パスワードを入力して、バインディングを解除します。";
+
+updated                     = "インストール済み";
+
+unupdated                   = "未インストール";
+
+filesbad_format             = "ファイルシステムが壊れています。フォーマットする必要です。";
+
+sure                        = "確定";
+
+formatwilldeleteall_copy    = "フォーマットすると、全てのファイルが削除されました。よろしいですか";
+fail                        = "失敗しました。";
+
+copyfail                    = "コピー失敗";
+
+moveoutfail                 = "エクスポート失敗";
+
+moveoutfailbig              = "エクスポート失敗（原因：ファイルが500MBより大きい）";
+
+moveoutfailspace            = "エクスポート失敗しました。iPhone本体の空き領域を確認してください。";
+
+again                       = "やり直す";
+
+jump                        = "スキップ";
+
+ignore                      = "無視";
+
+pleaseselect                = "選択してください";
+
+copyfilesy                  = "全てのファイルがコピーされます。よろしいですか？";
+
+deletealert                 = "削除確認";
+
+deletefilesy                = "選択したファイルは削除されます。よろしいですか？";
+
+deletefilea                 = "削除確認";
+deletefileb                 = "ですか";
+
+calculate                   = "コピーされるファイルのサイズを計算しています。";
+
+deleting                    = "削除中";
+
+myvideo                     = "マイ ビデオ";
+
+voice                       = "音声";
+
+copymusicy                  = "選択した音声ファイルがコピーされます。よろしいですか？";
+
+copying_voice               = "音声ファイルをコピーしています。";
+
+copyfail_exit               = "コピー失敗しました。「確定」をタッチしてウィンドウを閉じます。";
+
+connectkuner                = "KUKEを接続してください。";
+
+connecting_wait             = "KUKEに接続しています。少々待ってください";
+
+safenumbercheck             = "パスワード検証";
+
+imputsafenumber             = "iPhoneとKUKEの関連したパスワードを入力してください。";
+
+checknumber                 = "検証番号";
+
+safenum                     = "パスワード";
+
+safenumberfault             = "パスワードが間違っています。";
+
+select                      = "選択";
+
+edit                        = "編集";
+
+deletepicture               = "選択した写真は削除されます。よろしいですか？";
+
+loading                     = "読み込み中....";
+
+yes                         = "確定";
+
+no                          = "取消";
+
+deletethispicture           = "この写真は削除されます。よろしいですか？";
+
+fault                       = "エラー";
+
+unopenfiles                 = "ファイルを開けません。";
+
+know                        = "わかりました";
+
+back                        = "戻す";
+
+tips                        = "ティップス";
+
+gpsnotice                   = "現在データ通信を使用しています。ダウンロードすると料金がかかる可能性があります。よろしいですか？";
+
+netchangenotice             = "現在データ通信を使用しています。ダウンロード続けると料金がかかる可能性があります。よろしいですか？";
+
+unsupportfilelayout         = "対応していないフォーマットです";
+
+deletethesongy              = "この曲は削除されます。よろしいですか？";
+
+nopicture                   = "iphoneには写真がありません。";
+
+copypicturey                = "全ての写真がコピーされます。よろしいですか？";
+
+deleteselectpicturey        = "全ての写真は削除されます。よろしいですか？";
+
+document                    = "書類";
+
+inportsafenumbertounbinding = "iPhoneとKUKEを関連には、パスワードを作成してください。";
+
+notips                      = "再表示しない";
+
+inport6number               = "6桁の英数字を入力してください。";
+
+updatenow                   = "今すぐアップデート";
+
+donotupdate                 = "しばらくアップデートしない";
+
+pickLoading                 = "写真読み込み中....";
+
+checkupdate                 = "更新チェック";
+
+nonewversion                = "最新バージョンです";
+
+kukequickgo                 = "KUKE充電";
+
+closekukeu                  = "PCに接続中";
+
+changekukeu                 = "iPhoneに接続中";
+
+allgb                       = "容量";
+
+redaygb                     = "使用領域";
+
+canuse                      = "空き領域";
+
+suanzhong                   = "計算中";
+
+shengyudianliang            = "KUKEの残りバッテリー";
+
+unknown                     = "未知";
+
+calculating                 = "計算中";
+
+surpluspower                = "空き領域";
+
+myfile                      = "マイ ドキュメント";
+
+fastpower                   = "KUKE高速充電";
+
+areyoucopy                  = "選択したファイルがコピーされます。よろしいですか？";
+
+areyoudelete                = "選択したファイルは削除されます。よろしいですか？";
+
+isplaying                   = "再生中";
+
+selectpicture               = "写真を選択";
+
+format_surey                = "フォーマットするとKUKEのファイルは削除されます。もう一度確認してください！";
+
+formatfail                  = "接続不安定のため、フォーマット失敗しました。やり直してください。";
+
+formatagainy                = "もう一度KUKEをフォーマットしますか。";
+
+formatdone                  = "フォーマット完成";
+
+safenumberfault_again       = "パスワードが間違っています。入力直してください。";
+
+selected                    = "選択した";
+
+copypicturefinish           = "写真コピー完成";
+
+formatfinish                = "フォーマット完成";
+
+safenum_length_short        = "パスワードは6桁です。入力直してください。";
+
+phpower                     = "iPhoneのバッテリー残量";
+
+phcapacity                  = " iPhoneのストレージ残量";
+
+phcpu                       = "CPU使用率";
+
+phram                       = "RAM";
+
+phused                      = "使用済み";
+
+phfree                      = "使用可能";
+
+phof                        = "の";
+
+phversion                   = "iOSバージョン";
+
+phcanuse                    = "使用可能";
+
+phtotal                     = "総計";
+
+phminute                    = "分";
+
+phhour                      = "時間";
+
+songisnone                  = "音楽再生";
+
+appversion                  = "ソフトウェアバージョン";
+
+gujianversion               = "ファームウェアVer.";
+
+importantnotice             = "KUKEアクティブ成功";
+
+importantmsg                = "KUKEアプリのファイルは自動にKUKEに移動します。";
+
+movephoto                   = "写真フォルダをコピーしています";
+
+deletephoto                 = "写真フォルダが使用した空間をクリーニングしています";
+
+movevideo                   = "ビデオフォルダをコピーしています";
+
+deletevideo                 = "ビデオフォルが使用した空間をクリーニングしています";
+
+movemusic                   = "音楽フォルダをコピーしています";
+
+deletemusic                 = "音楽フォルダが使用した空間をクリーニングしています";
+
+movedoc                     = "書類フォルダをコピーしています";
+
+moveother                   = "他のファイルを移動しています";
+
+openway                     = "開く";
+
+deletedoc                   = "書類フォルダが使用した空間をクリーニングしています";
+
+deleteother                 = "他のファイルが使用した空間をクリーニングしています";
+
+gujianxinxi                 = "ファームウェア情報";
+
+pluspower                   = "KUKEのバッテリー残量";
+
+powering                    = "KUKE充電中";
+
+powerfull                   = "フル充電しました";
+
+getsizerror                 = "KUKE読み込みエラー";
+
+loadsizeing                 = "ストレージ情報を読み込みしています...";
+
+adding                      = "読み込み中...";
+
+setting                     = "設定";
+
+resourceDownload            = "リソースのダウンロード";
+
+lastupdatetime              = "前回のリフレッシュした時間";
+
+releasetorefresh            = "指を離して更新...";
+
+pulltorefresh               = "引き下げて更新...";
+
+refreshing                  = "最新の情報に更新しています...";
+
+newversion                  = "新バージョン";
+
+updateThing                 = "更新内容:";
+
+browse                      = "ブラウズ";
+
+read                        = "閲読";
+
+readying                    = "準備しています...";
+
+readyfail                   = "すみません。準備が失敗しました。しばらくしてからやり直してください。";
+
+browsestatus                = "ブラウザーモード";
+
+readingstatus               = "リーダーモード";
+
+close                       = "閉じる";
+
+loadingfail                 = "ページ読み込みエラー";
+
+checknetandtryrefresh       = "ネットワークを検査してから、スクリーンをタッチして更新";
+
+downtoke                    = "KUKEにダウンロード";
+
+downtophone                 = "iPhoneにダウンロード";
+
+indownloadlist              = "ダウンロードリストに加入";
+
+checknetandtryagain         = "ネットワークを検査してから、やり直してください";
+
+sorry                       = "申し訳ありません";
+
+cannotplay                  = "この曲は再生できません";
+
+nextsong                    = "次の曲";
+
+gofindmusic                 = "空";
+
+playmusicround              = "リピート再生";
+
+playmusicone                = "1曲リピート";
+
+playmusicrandom             = "ランダム再生";
+
+operatetoofast              = "ちょっとゆっくりしてくださいね";
+
+nowmusiclist                = "現在の再生リスト";
+
+selectmusic                 = "再生リストを選択";
+
+selectcountunit             = "項目";
+
+downloadlist                = "ダウンロードリスト";
+
+allstart                    = "全て開始";
+
+allpause                    = "全て一時停止";
+
+downloading                 = "ダウンロード中";
+
+downloaded                  = "完成しました";
+
+suretodeletedownloadunit    = "ダウンロードリストは削除されます。よろしいですか？";
+
+pause                       = "一時停止";
+
+downloadfail                = "ダウンロード失敗";
+
+downloadfailwithouturl      = "ダウンロード失敗，アドレスが見つかりませんでした";
+
+waiting                     = "待ち中...";
+
+notinstallwx                = "WeChatがインストールされていません。";
+
+wxversionlowtip             = "すみません。既存したWeChatはバージョンが低いため，シェア機能が対応していません ";
+
+imageistoobig               = "圧縮した写真は大きい過ぎ";
+
+notplace                    = "空き領域が不足";
+
+deletecachefile             = "一時ファイルを削除しています";
+
+formatekuke                 = "KUKEをフォーマット";
+
+kukesavingmodel             = "KUKE省電力モード";
+
+closesecret                 = "パスワードを削除";
+
+opensecret                  = "パスワードで保護";
+
+issuretodelete              = "削除しますか？";
+
+formattipone                = "パスワードが未設定になりますので、高いセキュリティに設定したいなら、改めてパスワードを設定してください。";
+
+formattiptwo                = "パスワードが削除されます。新しいデータは保護されません。";
+
+formattipthree              = "写真、ビデオ、音楽、書類などのファイルは永久に失われるので、注意してください！";
+
+formattipfour               = " KUKEにある全部のデータは削除され、回復できません！";
+
+formattiptosure             = "フォーマットしたら、どうなるの？";
+
+inputsecret                 = "パスワード入力";
+
+setsecret                   = "パスワード設定";
+
+checksecret                 = "パスワード確定";
+
+findsecret                  = "パスワードをお忘れ";
+
+setsecrettipone             = "大切なファイルを保護するには、パスワード推奨";
+
+setsecrettiptwo             = "`別のiPhoneがこのKUKEに接続する場合は、パスワードが知らなければファイルにアクセスできません。";
+
+faultsecret                 = "一致しません";
+
+useqtoclosesecret           = "セキュリティ質問でパスワードを解除";
+
+entersecret                 = "パスワードを入力します";
+
+forgetsecret                = "お忘れ";
+
+enterq                      = "セキュリティ質問を答える";
+
+thesecret                   = "最終のパスワードは？";
+
+setquestion                 = "セキュリティ質問の設定";
+
+secretnotsame               = "パスワードが一致しません。もう一度入力してください。";
+
+closesecretsuccess          = "パスワードは解除成功";
+
+closesecretfail             = "パスワードは解除失敗";
+
+secretquestion              = "質問";
+
+selectquestion              = "セキュリティ質問を選択";
+
+answerofq                   = "回答";
+
+enteranswerofq              = "（1~25文字）";
+
+otherq                      = "その他";
+
+questionone                 = "あなたの一番好きな都市";
+questiontwo                 = "お父さんの誕生日";
+questionthree               = "お母さんの誕生日";
+questionfour                = "あなたの一番好きな動物";
+questionfive                = "あなたの一番好きな歌手";
+questionsix                 = "あなたの一番好きなチーム";
+questionseven               = "あなたの理想の仕事";
+questioneight               = "あなたの学籍番号";
+questionnine                = "あなたの職員番号";
+questionten                 = "あなたの出身地";
+questioneleven              = "お父さんの名前";
+questiontwelve              = "お母さんの名前";
+
+selectq                     = "質問を選択してください";
+
+keepuseoldsecret            = "古いパスワードを使い続けますか。";
+
+resetsecret                 = "新たなパスワードを設定します";
+
+faultquestion               = "提供された認証情報は、登録されている情報とは一致しません。";
+
+issuretosetsecret           = "パスワードを設定します。よろしいですか？";
+
+setsecrettip                = "KUKEに保存したデータはパスワードに保護されます。パスワードを忘れた場合は、セキュリティ質問でパスワードを削除できますが、パスワードを回復できません。";
+
+formattingTips              = "パスワードとセキュリティ質問を両方とも忘れてしまった場合は、KUKEをフォーマットしなければ使えません。クリック—>";
+
+formatkuke                  = "KUKEをフォーマットする";
+
+suretosetsecretquestion     = "セキュリティ質問と答えは1~25文字を設定してください。";
+
+setsecretsuccess            = "パスワード設定成功";
+
+setsecretfail               = "パスワード設定失敗";
+
+entersecretquestion         = "セキュリティ質問を入力してください。（1~25文字）";
+
+cooperate                   = "業務提携";
+
+formatdefault               = "フォーマット";
+
+kuketeach                   = "KUKEの使い方";
+
+selectfile                  = "ファイルを選択";
+
+musicdirnamenotempty        = "再生リストの名前を入力してください！ ";
+
+photodirnamenotempty        = "アルバムの名前を入力してください！";
+
+namecontantunuseablechar    = "特殊文字は利用できません";
+
+existmusicdirname           = "作成したい再生リストは既に有りました";
+
+existphotodirname           = "アルバムは既に有りました";
+
+createfail                  = "作成失敗";
+
+createmusicdirname          = "再生リストを作成";
+
+entermusicdirname           = "再生リストの名前を入力してください";
+
+createphotodirname          = "アルバムを作成";
+
+enterphotodirname           = "アルバムの名前を入力してください";
+
+openunknowfileusethirdAPP   = "対応していないフォーマットです。他のアプリで開きますか。";
+
+yesto                       = "はい";
+
+notto                       = "いいえ";
+
+downloadnotcomplete         = "ダウンロードは完成しません";
+
+musicdirname                = "再生リスト";
+
+photodirname                = "アルバム";
+
+keunlink                    = "KUKEは異常に切れました";
+
+moveveidoout                = "ビデオをiPhoneにエクスポート";
+
+selectvideo                 = "ビデオを選択";
+
+getting                     = "読み込み中...";
+
+phonevideo                  = "iPhoneにあるビデオ";
+
+phonephoto                  = "iPhoneのアルバム";
+
+phonenotvideotip            = "ビデオをエクスポートするには、iPhoneにアルバムを新規作成してください。";
+
+photounabletosys            = "写真はiPhoneのアルバムにエクスポートできません";
+
+phonenotvideotiptwo         = "iPhoneのアルバムにビデオがありません";
+
+shareto                     = " にシェアする";
+
+wxfriend                    = "WeChat";
+
+wxcircle                    = "モーメンツ";
+
+sorrytosharegif             = "すみません。ローカルのGIFファイルをシェアできません";
+
+notgetphotodetail           = "シェアする写真も情報は見つかりません。しばらくしてからやり直してください。";
+
+lowpowertiptitle            = "バッテリー低下";
+
+tenpecentpowertip           = " KUKEはバッテリー残量が10％しかありません。早速充電してください！";
+
+belowtenpecentpowertip      = " KUKEはバッテリー残量が10％以下です。早速充電してください！";
+
+existdirwhencopydir         = "元のファイルはコピー先に含まれています。選択し直してください。";
+
+deletefailforunlinkke       = "KUKEとの接続が切れました。削除失敗しました。";
+
+opearateerror               = "エラーが";
+
+goontodo                    = "続きます";
+
+allphoto                    = "全ての写真";
+
+photohidden                 = "隠す";
+
+photobig                    = "パノラマ";
+
+photocollect                = "お気に入り";
+
+photodelete                 = "最近削除した項目";
+
+photoall                    = "写真";
+
+photodelay                  = "タイムラプス";
+
+photoslow                   = "スロー";
+
+photoadd                    = "最近追加した項目";
+
+photolian                   = "連続撮影";
+
+importfail                  = "インポート失敗";
+
+importfailoffile            = "インポート失敗（ファイルが読み込み失敗）";
+
+importfailofbigfile         = "インポート失敗 ファイルが大きすぎます（4Gより大きい）";
+
+importphoto                 = "写真をインポート";
+
+importvideo                 = "ビデオをインポート";
+
+localnotitipone             = "新しい写真を摂ったねぇ！早くKUKEにバックアップしよう～";
+
+localnotitiptwo             = "iPhoneの空き領域不足！ビデオ、音楽を早くKUKEにダウンロードしよう！iPhoneのストレージ不要ですよ～";
+
+localnotitipthree           = "ビデオ、音楽、写真はiPhoneのストレージを使用すぎる！マイKUKEで>>";
+
+gettingkukeinfo             = "KUKEのストレージ情報を読み込んでいます...";
+
+readinfoerror               = "データ読み込み異常。フォーマットを試してください。";
+
+readinfoerrorforrestart     = "データ読み込み異常。アプリを再起動を試してください。";
+
+topicTitle                  = "トッピング";
+
+videocacle                  = "キャッシュ完成";
+
+musiccacle                  = "キャッシュ完成";
+
+selectvideocecle            = "ダウンロードするビデオを選択";
+
+selectfilececle             = "ダウンロードするファイルを選択";
+
+dataClean                   = "iPhoneのストレージのクリーニング";
+
+selectaudiocecle            = "ダウンロードする音楽を選択";
+
+
+allcacle                    = "全部キャッシュ完成";
+
+versionnotips               = "このバージョンは再表示しない";
+
+deletedownloadedtip         = "文件已被删除，是否要删除此下载记录？";
+
+downloadbroken              = "酷壳已经断开，无法下载当前资源。";
+downloaderrorspace          = "酷壳空间不足，无法下载当前资源。";
+downloadtitle               = "下载提示";
+loadfailed                  = "加载失败，请重试";
+
+downloadingfulltip          = "当前已达下载任务上限（99个）,请稍后添加新的任务";
+downloadingtip              = "下载任务进行中";
+
+neterror                    = "网络错误，请检查网络";
+
+downloadvideopath           = "ダウンロードしたビデオ";
+
+downloadaudiopath           = "ダウンロードした音楽";
+
+downloadpicturepath         = "ダウンロードした画像";
+
+downloaddocumentpath        = "ダウンロードした書類";
+
+updatetips                  = "更新ティップス";
+
+updatetipscontent           = "ファームウェア更新が必要です。更新する期間、KUKEとの接続が切れます。5秒後手動でKUKEをONにしてください。";
+
+charge_model_know           = "わかりました";
+charge_model_title          = "KUKE節電モードとは：";
+charge_model_msg            = "1.KUKEのバッテリーを節約して、ストレージ拡張機能を長く使えます。\n2.iPhoneとKUKEのバッテリー残量を同一水準に保持します。                      \n3.アプリをバックグラウンドにする場合は、10分間後、iphoneへの充電を停止します。";
+charge_model_msg_two        = "節電モードをオンにするには、KUKEのバッテリーを節約して、ストレージ拡張機能を長く使えます。節電のため、アプリをバックアップにする場合は、ダウンロード任務がないなら、KUKEの電源をオフにします。";
+
+pdf_cannotopen              = " 80M超えのファイルを対応していません。他のアプリで開きますか。";
+
+calculatefilessize          = "ファイルサイズを計算しています";
+
+share                       = "シェア";
+
+more                        = "その他";
+
+batterysaving               = "省電力モード";
+
+downloadingpicmsg           = "画像ダウンロード中... ";
+
+
+notshowtopictip             = "このトッピングはホームページで表示しません～";
+
+copyto                      = " にファイルをコピー";
+
+savefield                   = "保存位置";
+
+copynokuke                  = "KUKEに接続していません。接続してから、ファイルを開き直してください。";
+
+copysavetokuke              = "ファイルをKUKEに保存";
+
+musictimerplay              = "音楽再生の自動停止";
+
+dontopen                    = "不使用";
+
+playcurrentmusic            = "現在の音声を再生した直後";
+
+savetofeedback              = "伝言";
+
+weixinfeedback              = " WeChatでフィードバック";
+
+attentionweixin             = "KUKEのWeChatをフォローし、フィードバックできます。";
+
+weixinnum                   = "WeChat ID:kuner2016";
+
+copyed                      = "コピー済み";
+
+weixinkehufeed              = "WeChatでフィードバック";
+
+kehuphone                   = "お問合わせ";
+
+takekefuphone               = "押すと電話が掛かる";
+
+phoneinfo                   = "iPhoneの情報";
+
+kukeofficemall              = "KUNER公式ストア";
+
+sendkuketofd                = "KUKEを友人に推奨";
+
+gotoweixinfeedback          = "WeChatでフィードバック";
+
+dontsupportthetype          = "非対応のフォーマットです";
+
+useotherappopen             = "別のアプリで開けるかもしれません";
+
+otherappopen                = "別のアプリで開く";
+
+noplayingmusic              = "再生している音楽がありません";
+
+kukedisc                    = "説明";
+openkuke                    = "KUKEの電源をオンにして下さい";
+presspowerbtn               = "KUKEの裏面の電源ボタンを3秒押し続け";
+kukedisctitle               = "メモリ拡張だけを使用したくて、電源を入りたくないですか？";
+
+tabuncopiedtitle            = "未インポート";
+tabcopiedtitle              = "インポート済";
+tabtotaltitle               = "全て";
+

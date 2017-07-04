@@ -1,0 +1,149 @@
+//
+//  CustomUISlider.m
+//  guangGaoDemo
+//
+//  Created by 呼啦呼啦圈 on 13-3-5.
+//  Copyright (c) 2013年 呼啦呼啦圈. All rights reserved.
+//
+
+#import "TGK_CustomUISlider.h"
+
+@implementation TGK_CustomUISlider
+@synthesize delegate;
+
+- (id)init
+{
+    self = [super init];
+    if (self) {
+        // Initialization code
+        _emptyImg = [[UIImageView alloc]init];
+        _emptyImg.autoresizingMask = UIViewAutoresizingFlexibleWidth ;
+        [self addSubview:_emptyImg];
+
+        _fullImg = [[UIImageView alloc]init];
+        _fullImg.autoresizingMask = UIViewAutoresizingFlexibleWidth ;
+        [self addSubview:_fullImg];
+        
+        //拖动图
+        _iconImg = [[UIImageView alloc]init];
+        [self addSubview:_iconImg];
+
+//        _emptyImg.image = [[UIImage imageNamed:@"TAIG_PLAYER.bundle/slider_empty.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(1, 1, 1, 1) resizingMode:UIImageResizingModeStretch];;
+        _emptyImg.backgroundColor = [UIColor colorWithRed:132.0/255.0 green:132.0/255.0 blue:132.0/255.0 alpha:1.0];
+        _emptyImg.opaque = NO;
+        _emptyImg.layer.borderWidth = 0.0;
+        _emptyImg.layer.cornerRadius = 1.5;
+        _emptyImg.layer.masksToBounds= YES;
+        
+//        _fullImg.image = [[UIImage imageNamed:@"TAIG_PLAYER.bundle/slider_full.png"] resizableImageWithCapInsets:UIEdgeInsetsMake(1, 1, 1, 1) resizingMode:UIImageResizingModeStretch];
+        _fullImg.backgroundColor = [UIColor colorWithRed:33.0/255.0 green:140.0/255.0 blue:206.0/255.0 alpha:1.0];
+        _fullImg.opaque = NO;
+        _fullImg.layer.borderWidth = 0.0;
+        _fullImg.layer.cornerRadius = 1.5;
+        _fullImg.layer.masksToBounds= YES;
+        
+        _iconImg.image = [UIImage imageNamed:@"TAIG_LEFTVIEW.bundle/sliderthumb.png"];
+
+        _isFirstRun = YES;
+    }
+    return self;
+}
+
+-(void)layoutSubviews{
+
+    if(_isFirstRun)
+        _isFirstRun = NO;
+    else
+        return;
+    
+    _emptyImg.frame = CGRectMake(0,
+                             (self.bounds.size.height - 3)/2,
+                             self.bounds.size.width,
+                             3);
+
+    _iconImg.frame = CGRectMake(0,
+                               (self.bounds.size.height - 16)/2,
+                               16,
+                               16);
+
+    _fullImg.frame = _emptyImg.frame;
+ 
+}
+
+-(void)setValue:(float)value{
+
+    if(_isAction){
+       
+        return;
+    }
+    float x = self.bounds.size.width * value;
+
+    _iconImg.frame = CGRectMake(x, _iconImg.frame.origin.y, _iconImg.frame.size.width, _iconImg.frame.size.height);
+    
+    _fullImg.frame = CGRectMake(_fullImg.frame.origin.x, _emptyImg.frame.origin.y, x + _iconImg.frame.size.width/2, _emptyImg.frame.size.height);
+}
+
+-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event{
+    UITouch *touch = [event.allTouches anyObject];
+    
+	CGPoint touchBeganPoint = [touch locationInView:self];
+    
+    if(CGRectContainsPoint(CGRectMake(_iconImg.frame.origin.x - 15,
+                                      _iconImg.frame.origin.y - 15,
+                                      _iconImg.frame.size.width + 30
+                                      , _iconImg.frame.size.height + 30), touchBeganPoint)){
+
+        _isAction = YES;
+    }else{
+        _isAction = NO;
+    }
+    
+}
+
+-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event{
+    if(_isAction){
+        UITouch *touch = [event.allTouches anyObject];
+        
+        CGPoint touchPoint = [touch locationInView:self];
+        float x;
+        
+        if(touchPoint.x - _iconImg.frame.size.width/2 < 0)
+            x = 0;
+        else if(touchPoint.x + _iconImg.frame.size.width/2 > self.bounds.size.width)
+            x = self.bounds.size.width - _iconImg.frame.size.width;
+        else
+            x = touchPoint.x - _iconImg.frame.size.width/2;
+        
+        _iconImg.frame = CGRectMake(x, _iconImg.frame.origin.y, _iconImg.frame.size.width, _iconImg.frame.size.height);
+        
+        _fullImg.frame = CGRectMake(_fullImg.frame.origin.x, _emptyImg.frame.origin.y, x + _iconImg.frame.size.width/2, _emptyImg.frame.size.height);
+        
+        if (delegate && [delegate respondsToSelector:@selector(valueChange:)]) {
+
+            [delegate valueChange:x/self.bounds.size.width];
+ 
+        }
+    }
+}
+
+-(void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event{
+
+    if (delegate && [delegate respondsToSelector:@selector(endChange:)]) {
+
+        [delegate endChange:_iconImg.frame.origin.x/self.bounds.size.width];
+    }
+    
+    _isAction = NO;
+}
+
+-(void)touchesCancelled:(NSSet *)touches withEvent:(UIEvent *)event{
+
+    if (delegate && [delegate respondsToSelector:@selector(endChange:)]) {
+
+        [delegate endChange:_iconImg.frame.origin.x/self.bounds.size.width];
+    }
+    
+    _isAction = NO;
+}
+
+@end

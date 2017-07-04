@@ -1,0 +1,22 @@
+#import <Availability.h>
+
+#ifndef __IPHONE_6_0
+#warning "This project uses features only available in iOS SDK 7.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import "FileSystem.h"
+    #import "config.h"
+    #import "Context.h"
+    #import "DESUtils.h"
+#import "NSNumber+Format.h"
+#import "UIImage+Bundle.h"
+#endif
+
+#ifdef __OPTIMIZE__
+    #define NSLog(...) {}
+#endif
+
+#define UMENG_APPKEY @"55192396fd98c52f360009c2" // 友盟appKey
+#define WX_APPKEY    @"wx3089faa742ec6948" // 微信appKey

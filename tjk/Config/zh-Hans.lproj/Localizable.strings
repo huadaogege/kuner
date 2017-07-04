@@ -1,0 +1,857 @@
+
+sysDelete                   = "删除文件";
+sysCopy                     = "复制文件";
+sysCopyError                = "复制异常";
+sysDeleteError              = "删除异常";
+sysNoFree                   = "容量不足";
+
+photoIntoError              = "导入异常";
+
+time_h                      = "小时";
+time_min                    = "分钟";
+
+copymaintitle               = "我的酷壳";
+
+main_nowU                   = "酷壳连接电脑模式";
+
+main_longSize               = "请通过数据线连接电脑对酷壳文件进行操作";
+
+main_linkLongSize           = "请在电脑上打开u盘对酷壳文件进行操作";
+
+checkupdate                 = "检查更新";
+
+about                       = "关于我们";
+
+feedback                    = "问题反馈";
+
+deleteing                   = "正在删除文件";
+
+dataClean                   = "手机空间清理";
+
+deleteingOn                 = "正在删除";
+
+gujianv                     = "固件版本";
+
+snl                         = "SN序列号";
+
+privatel                    = "隐私声明";
+
+music                       = "音乐";
+
+rootPath                    = "文件管理器";
+
+delete                      = "删除";
+
+cancel                      = "取消";
+
+phone                       = "手机";
+
+kuner                       = "酷壳";
+
+done                        = "取消";
+
+dataasync                   = "数据同步中...";
+
+switching                   = "切换中...";
+
+newfoldertitle              = "创建文件夹";
+
+newfodercreating           = "创建中...";
+
+inputfoldername             = "输入文件夹名称";
+
+newfolder                   = "新建";
+
+folder                      = "文件夹";
+
+newfolderfail               = "创建文件夹失败";
+
+checkall                    = "全选";
+
+photo_empty                 = "iPhone中相册为空";
+
+pleasreopen                 = "请新建相册";
+
+picture_tishione            = "请在iPhone的“设置-隐私-照片”选项中，";
+
+picture_tishitwo            = "允许酷壳访问你的手机相册";
+
+copy                        = "复制";
+
+copying                     = "正在复制";
+
+copyhere                    = "拷贝至此";
+
+importpic                   = "由手机导入";
+
+newpic                      = "新建相册";
+
+importhere                  = "确定导入";
+
+exportpic                   = "导出至手机";
+
+exporthere                  = "确定导出";
+
+movetoPhone                 = "图片导出至相册";
+
+export                      = "导出";
+
+picture                     = "图片";
+
+video                       = "视频";
+
+files                       = "文件";
+
+now                         = "正在";
+
+hardversion                 = "固件版本";
+
+setting                     = "设置";
+
+kunercapacity               = "酷壳容量";
+
+kunerpower                  = "酷壳电量";
+
+mymusic                     = "我的音乐";
+
+versionupdating             = "版本更新";
+
+kelinkbroken                = "酷壳断开连接！";
+
+formatting                  = "酷壳格式化";
+
+safenumber                  = "安全码绑定";
+
+aboutkuner                  = "关于酷壳";
+
+capacity                    = "容量";
+
+unsafebind                  = "未邦定";
+
+safebind                    = "已绑定";
+
+kunerdilatation             = "酷壳";
+
+chooseedpicture             = "已选择 张照片";
+
+unknowfile                  = "无法识别的文件格式...";
+
+firnillname                 = "文件夹名称不可为空！";
+
+movplayfail                 = "视频播放失败";
+
+direxisted                  = "需要创建的文件夹已经存在！";
+
+copypictureyes              = "确定要复制所选照片吗？";
+
+calculatefiles              = "正在计算所选文件大小";
+
+copyingpicture              = "正在复制图片";
+
+updating                    = "正在更新";
+
+checkfail_again             = "检查更新失败，请重试";
+
+updatefail                  = "更新失败";
+
+serverfail_again            = "网络连接失败，请稍后重试！";
+
+updatefail_again            = "更新失败，请稍后重试！";
+
+update_success              = "更新成功";
+
+updatefail_check_again      = "更新失败，请检查网络后重试";
+
+checkfail_timeout_again     = "检查更新失败，请求超时，请重试";
+
+checkfail_checkserveragain  = "检查更新失败，请检查网络后重试";
+
+checking                    = "检测中请稍后…";
+
+formaty                     = "是否对酷壳格式化";
+
+importsafetobind            = "输入安全码进行手机与酷壳绑定";
+
+findnew                     = "发现新版本";
+
+context                     = "更新内容";
+
+formatting_wait             = "正在格式化，请稍后";
+
+importsafetounbind          = "输入已绑定安全码与酷壳解除绑定";
+
+updated                     = "已安装";
+
+unupdated                   = "未安装";
+
+filesbad_format             = "文件系统损坏, 需要格式化";
+
+sure                        = "确定";
+
+formatwilldeleteall_copy    = "确定要格式化吗？此操作将删除所有数据，建议先备份相关重要文件。";
+
+fail                        = "失败";
+
+copyfail                    = "复制失败";
+
+moveoutfail                 = "导出失败";
+
+moveoutfailbig              = "导出失败(原因：文件大于500M)";
+
+moveoutfailspace            = "导出失败，请检查手机剩余可用空间";
+
+again                       = "重试";
+
+jump                        = "跳过";
+
+ignore                      = "忽略";
+
+pleaseselect                = "请选择";
+
+copyfilesy                  = "确定要复制所选文件吗？";
+
+deletealert                 = "删除提醒";
+
+deletefilesy                = "确定要删除所选文件吗？";
+
+deletefilea                 = "确定删除";
+deletefileb                 = "吗？";
+
+calculate                   = "正在计算复制文件大小";
+
+deleting                    = "正在删除";
+
+myvideo                     = "我的视频";
+
+voice                       = "音频";
+
+copymusicy                  = "确定要复制所选音频吗？";
+
+copying_voice               = "正在复制音频";
+
+copyfail_exit               = "复制失败，点击确定后窗口退出";
+
+connectkuner                = "请连接酷壳";
+
+connecting_wait             = "正在连接酷壳, 请稍后···";
+
+safenumbercheck             = "安全码验证";
+
+imputsafenumber             = "请输入手机与酷壳绑定的安全码";
+
+checknumber                 = "验证码";
+
+safenum                     = "安全码";
+
+safenumberfault             = "安全码错误";
+
+select                      = "选择";
+
+edit                        = "编辑";
+
+deletepicture               = "确定要删除所选图片吗？";
+
+loading                     = "加载中....";
+
+yes                         = "确定";
+
+no                          = "取消";
+
+deletethispicture           = "确定要删除该图片吗？";
+
+fault                       = "错误";
+
+unopenfiles                 = "无法打开文件";
+
+know                        = "知道";
+
+back                        = "返回";
+
+tips                        = "提示";
+
+gpsnotice                   = "当前为移动网络，确定要下载该资源吗？";
+
+netchangenotice             = "当前为移动网络，是否要继续下载资源？";
+
+unsupportfilelayout         = "不支持该文件格式";
+
+deletethesongy              = "确定要删除此歌曲吗？";
+
+nopicture                   = "手机中没有任何图片";
+
+copypicturey                = "确定要复制所选图片吗？";
+
+deleteselectpicturey        = "确定要删除所选图片吗？";
+
+document                    = "文档";
+
+inportsafenumbertounbinding = "输入安全码进行手机与酷壳的绑定";
+
+notips                      = "不再提示";
+
+inport6number               = "请输入6位数字或字母";
+
+updatenow                   = "立即升级";
+
+donotupdate                 = "暂不升级";
+
+pickLoading                 = "图片加载中....";
+
+checkupdate                 = "检测更新";
+
+nonewversion                = "当前版本已是最新版本!";
+
+kukequickgo                 = "酷壳连接供电";
+
+closekukeu                  = "酷壳连接手机";
+
+changekukeu                 = "酷壳连接电脑";
+
+allgb                       = "总容量";
+
+redaygb                     = "已用容量";
+
+canuse                      = "可用容量";
+
+suanzhong                   = "计算中";
+
+shengyudianliang            = "酷壳剩余电量";
+
+unknown                     = "未知";
+
+calculating                 = "计算中";
+
+surpluspower                = "剩余容量";
+
+myfile                      = "我的文件";
+
+fastpower                   = "酷壳快速充电";
+
+areyoucopy                  = "确定要复制所选文件吗?";
+
+areyoudelete                = "确定要删除所选文件吗?";
+
+isplaying                   = "正在播放";
+
+selectpicture               = "选择图片";
+
+format_surey                = "格式化后酷壳文件将丢失，请再次确认！";
+
+formatfail                  = "由于断壳导致格式化失败，请重新格式化！";
+
+formatagainy                = "是否再次对酷壳进行格式化操作?";
+
+formatdone                  = "格式化完成";
+
+safenumberfault_again       = "安全码错误请重新输入";
+
+selected                    = "已选";
+
+copypicturefinish           = "图片复制完成";
+
+formatfinish                = "格式化已完成";
+
+safenum_length_short        = "安全码长度不为6位，请重新输入！";
+
+phpower                     = "手机电量";
+
+phcapacity                  = "手机容量";
+
+phcpu                       = "CPU占用";
+
+phram                       = "手机内存";
+
+phused                      = "已用";
+
+phfree                      = "可用";
+
+phof                        = "的";
+
+phversion                   = "系统版本";
+
+phcanuse                    = "可使用";
+
+phtotal                     = "共";
+
+phminute                    = "分钟";
+
+phhour                      = "小时";
+
+songisnone                  = "音乐播放";
+
+appversion                  = "软件版本";
+
+gujianversion               = "固件版本";
+
+importantnotice             = "酷壳激活成功~";
+
+importantmsg                = "酷壳应用中的文件将自动转移至酷壳";
+
+movephoto                   = "正在复制图片目录";
+
+deletephoto                 = "正在清除图片目录所占手机空间";
+
+movevideo                   = "正在复制视频目录";
+
+deletevideo                 = "正在清除视频目录所占手机空间";
+
+movemusic                   = "正在复制音乐目录";
+
+deletemusic                 = "正在清除音乐目录所占手机空间";
+
+movedoc                     = "正在复制文档目录";
+
+moveother                   = "正在移动其他文件";
+
+openway                     = "打开";
+
+deletedoc                   = "正在清除文档目录所占手机空间";
+
+deleteother                 = "正在清除其他文件所占手机空间";
+
+gujianxinxi                 = "固件信息";
+
+pluspower                   = "酷壳剩余电量";
+
+powering                    = "酷壳正在充电";
+
+powerfull                   = "电量已充满";
+
+getsizerror                 = "酷壳读取异常";
+
+loadsizeing                 = "正在获取存储信息...";
+
+adding="正在加载中...";
+
+setting                     = "设置";
+
+resourceDownload            = "资源下载";
+
+lastupdatetime              = "上次刷新时间";
+
+releasetorefresh            = "松开刷新页面...";
+
+pulltorefresh               = "下拉刷新页面...";
+
+refreshing                  = "刷新中...";
+
+newversion                  = "新版本";
+
+updateThing                 = "更新内容:";
+
+browse                      = "浏览";
+
+read                        = "阅读";
+
+readying                    = "正在准备中...";
+
+readyfail                   = "抱歉，准备失败，请稍候重试";
+
+browsestatus                = "当前为浏览模式";
+
+readingstatus               = "当前为阅读模式";
+
+close                       = "关闭";
+
+loadingfail                 = "页面加载失败";
+
+checknetandtryrefresh       = "请检查网络后，尝试点击屏幕刷新";
+
+downtoke                    = "下载至酷壳";
+
+downtophone                 = "下载至手机";
+
+indownloadlist              = "已加入下载";
+
+checknetandtryagain         = "请检查网络后，再次尝试！";
+
+sorry                       = "抱歉";
+
+cannotplay                  = "该歌曲无法播放";
+
+nextsong                    = "下一首";
+
+gofindmusic                 = "当前没有音乐播放";
+
+playmusicround              = "循环播放";
+
+playmusicone                = "单曲播放";
+
+playmusicrandom             = "随机播放";
+
+operatetoofast              = "操作过于频繁";
+
+nowmusiclist                = "当前歌单";
+
+selectmusic                 = "选择歌单";
+
+selectcountunit             = "项";
+
+downloadlist                = "下载列表";
+
+allstart                    = "全部开始";
+
+allpause                    = "全部暂停";
+
+downloading                 = "下载中";
+
+downloaded                  = "已完成";
+
+suretodeletedownloadunit    = "确定要删除所选任务吗？";
+
+pause                       = "暂停";
+
+downloadfail                = "下载失败";
+
+downloadfailwithouturl      = "下载失败，未获取到下载地址";
+
+waiting                     = "等待中...";
+
+notinstallwx                = "您尚未安装微信";
+
+wxversionlowtip             = "抱歉，您的微信版本过低，不支持分享功能";
+
+imageistoobig               = "压缩后的图片过大";
+
+notplace                    = "空间不足";
+
+deletecachefile             = "正在删除临时文件";
+
+formatekuke                 = "格式化酷壳";
+
+kukesavingmodel             = "酷壳省电模式";
+
+closesecret                 = "关闭密码";
+
+opensecret                  = "密码保护";
+
+issuretodelete              = "确定要删除吗？";
+
+formattipone                = "如果你使用了密码功能，格式化后将自动为你关闭密码。";
+
+formattiptwo                = "酷壳将自动关闭密码功能，新的数据不受保护！";
+
+formattipthree              = "你会永远失去你的图片，视频，音乐，文档等文件。";
+
+formattipfour               = "酷壳内的数据会全部删除，且不可恢复！";
+
+formattiptosure             = "格式化后会怎么样？";
+
+inputsecret                 = "输入密码";
+
+setsecret                   = "设置密码";
+
+checksecret                 = "确认密码";
+
+findsecret                  = "找回密码";
+
+setsecrettipone             = "设置密码，保护隐私！";
+
+setsecrettiptwo             = "其他手机连接你的酷壳、不知道密码就看不到文件哦~";
+
+faultsecret                 = "密码错误";
+
+useqtoclosesecret           = "使用密保关闭安全码";
+
+entersecret                 = "输入安全码";
+
+forgetsecret                = "忘记密码";
+
+enterq                      = "回答密保问题";
+
+thesecret                   = "最终安全码是";
+
+setquestion                 = "设置密保";
+
+secretnotsame               = "两次密码不同，请重新输入";
+
+closesecretsuccess          = "安全码关闭成功";
+
+closesecretfail             = "安全码关闭失败";
+
+secretquestion              = "密保问题";
+
+selectquestion              = "选择密保问题";
+
+answerofq                   = "密保答案";
+
+enteranswerofq              = "输入密保答案（1~25个字符）";
+
+otherq                      = "其他";
+
+questionone                 = "您最喜欢哪一个城市？";
+questiontwo                 = "您的父亲的生日是哪天？";
+questionthree               = "您的母亲的生日是哪天？";
+questionfour                = "您最喜欢什么动物？";
+questionfive                = "您最喜欢哪一个明星？";
+questionsix                 = "您最喜欢哪一个球队？";
+questionseven               = "您理想的工作是什么？";
+questioneight               = "您的学号是什么？";
+questionnine                = "您的工号是什么？";
+questionten                 = "您的出生地是哪里？";
+questioneleven              = "您父亲的姓名是什么？";
+questiontwelve              = "您母亲的姓名是什么？";
+
+selectq                     = "选择问题";
+
+keepuseoldsecret            = "继续使用旧密码？";
+
+resetsecret                 = "设置新密码";
+
+faultquestion               = "密保答案错误";
+
+issuretosetsecret           = "确定设置密码？";
+
+setsecrettip                = "密码将对您的酷壳内数据进行隐私保护，忘记密码，密保将无法找回密码";
+
+formattingTips              = "密码、密保全部忘记时，若想继续使用酷壳需要格式化酷壳。点击—>";
+
+formatkuke                  = "格式化酷壳";
+
+suretosetsecretquestion     = "确认密保问题或答案满足1~25个字符~";
+
+setsecretsuccess            = "安全码设置成功";
+
+setsecretfail               = "安全码设置失败";
+
+entersecretquestion         = "输入密保问题（1~25个字符）";
+
+cooperate                   = "商务合作";
+
+formatdefault               = "格式化";
+
+selectfile                  = "选择文件";
+
+musicdirnamenotempty        = "歌单名称不可为空！";
+
+photodirnamenotempty        = "相册名称不可为空！";
+
+namecontantunuseablechar    = "名称包含不合法的字符！";
+
+existmusicdirname           = "需要创建的歌单已经存在！";
+
+existphotodirname           = "需要创建的相册已经存在！";
+
+createfail                  = "创建失败!";
+
+createmusicdirname          = "创建歌单";
+
+entermusicdirname           = "输入歌单名称";
+
+createphotodirname          = "创建相册";
+
+enterphotodirname           = "输入相册名称";
+
+openunknowfileusethirdAPP   = "该文件类型无法识别，是否选择其他应用打开";
+
+yesto                       = "是";
+
+notto                       = "否";
+
+downloadnotcomplete         = "下载未完成";
+
+musicdirname                = "歌单";
+
+photodirname                = "相册";
+
+keunlink                    = "壳已异常断开";
+
+moveveidoout                = "视频导出至手机相册";
+
+selectvideo                 = "选择视频";
+
+getting                     = "正在获取中...";
+
+phonevideo                  = "手机视频";
+
+phonephoto                  = "手机相册";
+
+phonenotvideotip            = "请在手机中新建相册，存储导出视频";
+
+photounabletosys            = "图片无法导出到系统相册";
+
+phonenotvideotiptwo         = "手机相册中无视频";
+
+shareto                     = "分享到";
+
+wxfriend                    = "微信好友";
+
+wxcircle                    = "朋友圈";
+
+sorrytosharegif             = "抱歉，无法分享本地GIF格式的文件";
+
+notgetphotodetail           = "暂未获取到分享的图片信息，请稍候再试";
+
+lowpowertiptitle            = "低电提醒";
+
+tenpecentpowertip           = "酷壳电量还剩10%，请及时充电！";
+
+belowtenpecentpowertip      = "酷壳电量不足10%，请及时充电！";
+
+existdirwhencopydir         = "复制文件夹包含于目标文件夹，请重新选择";
+
+deletefailforunlinkke       = "壳已断开，删除失败！";
+
+opearateerror               = "操作发生异常";
+
+goontodo                    = "继续";
+
+allphoto                    = "所有图片";
+
+photohidden                 = "隐藏";
+
+photobig                    = "全景";
+
+photocollect                = "收藏";
+
+photodelete                 = "最近删除";
+
+photoall                    = "相机胶卷";
+
+photodelay                  = "延时拍摄";
+
+photoslow                   = "慢动作";
+
+photoadd                    = "最近增加";
+
+photolian                   = "连拍";
+
+importfail                  = "导入失败";
+
+importfailoffile            = "导入失败(文件获取失败)";
+
+importfailofbigfile         = "导入失败，文件过大(大于4G)";
+
+importphoto                 = "导入图片";
+
+importvideo                 = "导入视频";
+
+localnotitipone             = "拍了新照片？快导进酷壳备份吧~";
+
+localnotitiptwo             = "手机存储空间不足！快使用酷壳下载视频、音乐，不占手机空间哒";
+
+localnotitipthree           = "视频、音乐、图片占了太多手机空间！使用【我的酷壳】分担 >>";
+
+gettingkukeinfo             = "正在获取酷壳容量信息...";
+
+readinfoerror               = "数据读取异常，请尝试格式化。";
+
+readinfoerrorforrestart     = "数据读取异常，请尝试重启应用。";
+
+topicTitle                  = "专题";
+
+videocacle                  = "该视频已缓存";
+
+musiccacle                  = "该音乐已缓存";
+
+selectvideocecle            = "选择下载的剧集";
+
+selectfilececle            = "选择下载的文件";
+
+selectaudiocecle            = "选择下载的音乐";
+
+allcacle                    = "已全部缓存";
+
+versionnotips               = "此版本不再提示";
+
+deletedownloadedtip         = "文件已被删除，是否要删除此下载记录？";
+
+downloadbroken              = "酷壳已经断开，无法下载当前资源。";
+downloaderrorspace          = "酷壳空间不足，无法下载当前资源。";
+downloadtitle               = "下载提示";
+loadfailed                  = "加载失败，请重试";
+
+downloadingfulltip          = "当前已达下载任务上限（99个）,请稍后添加新的任务";
+downloadingtip              = "下载任务进行中";
+
+neterror =	"网络错误，请检查网络";
+
+downloadvideopath = "下载的视频";
+
+downloadaudiopath = "下载的音乐";
+
+downloadpicturepath = "下载的图片";
+
+downloaddocumentpath = "下载的文档";
+
+updatetips = "更新提示";
+
+updatetipscontent = "固件需要更新，过程中酷壳会断开连接，5秒后请手动开启酷壳。";
+
+charge_model_know = "知道了";
+charge_model_title = "酷壳省电模式描述：";
+charge_model_msg = "1.节省酷壳自身电量，延长扩容功能使用时间\n2.手机与酷壳电量同比下降                      \n3.APP推至后台时，10分钟后酷壳停止为iphone充电";
+charge_model_msg_two = "开启省电模式，酷壳节省自身电量，用于延长扩容功能使用时间。为了节省电量，当APP退至后台，无后台任务时酷壳会断开连接。";
+
+pdf_cannotopen = "暂不支持80M大小以上文档，是否尝试第三方打开";
+
+calculatefilessize = "正在计算大小";
+
+share = "分享";
+
+more = "更多";
+
+batterysaving = "省电模式";
+
+downloadingpicmsg = "图片正在下载中...";
+
+
+// 酷壳V1.2.5新增
+notshowtopictip      = "该专题将不会在首页显示～";
+
+copyto = "拷贝文件至";
+
+savefield = "保存位置";
+
+copynokuke = "未连接酷壳。请连接酷壳后重新打开此文件";
+
+copysavetokuke = "将文件保存到酷壳存储";
+
+musictimerplay = "音乐定时播放";
+
+dontopen = "不开启";
+
+playcurrentmusic = "播放完当前声音停止";
+
+savetofeedback = "留言反馈";
+
+weixinfeedback = "微信反馈";
+
+attentionweixin = "关注酷壳微信账号,微信在线反馈问题。";
+
+weixinnum = "微信账号:kuner2016";
+
+copyed = "已拷贝";
+
+weixinkehufeed = "微信客服反馈";
+
+kehuphone = "客服电话";
+
+takekefuphone = "拨打客服电话";
+
+phoneinfo = "手机信息";
+
+kukeofficemall = "酷能量官方商城";
+
+sendkuketofd = "推荐酷壳给好友";
+
+gotoweixinfeedback = "去微信反馈";
+
+dontsupportthetype = "暂不支持该类型文件";
+
+useotherappopen = "你可以使用其他应用程序打开此文件";
+
+otherappopen = "其他方式打开";
+
+noplayingmusic  = "当前没有正在播放的音乐";
+
+kukedisc                    = "酷壳说明";
+openkuke                    = "请开启酷壳";
+presspowerbtn               = "长按酷壳背面电源键3秒开机";
+kukedisctitle               = "仅使用扩容功能，不想开启电源键？>";
+
+tabuncopiedtitle            = "未导入";
+tabcopiedtitle              = "已导入";
+tabtotaltitle               = "全部";
+
+

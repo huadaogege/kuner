@@ -1,0 +1,11 @@
+Why is it that the KUKE’s functions of memory expansion and battery charging cannot be used independently ?
+
+Even though the KUKE can expand the memory of the iPhone and charge the iPhone the two functions are not totally stand-alone functions.
+
+The built-in battery of the KUKE in addition to being used to charge the iPhone, it also undertakes the responsibility for power supply to the part of memory expansion. The function of memory expansion obviously needs power to operate. Even if it is used as the basic memory expansion method as a USB flash disk, it also relies on power supply, but the power used is that of the iPhone.
+
+Since the electric energy of the iPhone is not enough to use, the KUKE cannot continue to consume the built-in iPhone battery power. It has to supply more power for the iPhone after all. The reason why the part of the memory expansion uses the built-in battery power is a more logical selection.
+
+Not only this, with its independent and sufficient power supply, it also guarantees the abundant and fast speed data transmission of the part of memory expansion. To put it even more clearly, the KUKE is not just a simple phone case, it is a full operating system with a CPU.
+
+From this point of view, KUKE is the same as the iPhone itself. We cannot expect the iPhone to keep running after the battery is dead, and so it is the same with KUKE.

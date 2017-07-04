@@ -1,0 +1,846 @@
+
+sysDelete                    = "Delete";
+sysCopy                      = "Copy";
+sysCopyError                 = "Copy Error";
+sysDeleteError               = "Delete Error";
+sysNoFree                    = "Not Enough Storage on KUNER Case";
+
+photoIntoError               = "Import Error";
+
+time_h                       = "H";
+time_min                     = "Min";
+
+copymaintitle                = "KUNER";
+
+main_nowU                    = "PC Transmission Mode";
+
+main_longSize                = "Please connect to PC for transmission";
+
+main_linkLongSize            = "Transmission between KUNER Case and PC \n as easy U disk";
+
+checkupdate                  = "Check for Updates";
+
+about                        = "About Us";
+
+feedback                     = "Feedback";
+
+deleteing                    = "Deleting...";
+
+deleteingOn                  = "Deleting";
+
+gujianv                      = "Firmware Version";
+
+snl                          = "SN";
+
+privatel                     = "Privacy Policy";
+
+music                        = "Musics";
+
+rootPath                     = "File Management";
+
+delete                       = "Delete";
+
+cancel                       = "Cancel";
+
+phone                        = "iPhone";
+
+kuner                        = "KUNER";
+
+done                         = "Cancel";
+
+dataasync                   = "Connecting...";
+
+switching                    = "Switching…";
+
+newfoldertitle               = "Create a folder";
+
+newfodercreating           = "Creating...";
+
+inputfoldername              = "Enter a name for this folder";
+
+newfolder                    = "New";
+
+folder                       = "Folder";
+
+newfolderfail                = "Create Failed";
+
+checkall                     = "Select All";
+
+photo_empty                 = "No Content in iPhone Photos";
+
+pleasreopen                 = "Please create an new album";
+
+picture_tishione            = "Allow KUNER access your photos, turn on Privacy -> Photos -> KUNER in the Case Setting，";
+
+picture_tishitwo            = "KUNER Would Like to Access Your Photos";
+
+copy                         = "Copy";
+
+copyhere                     = "To Copy";
+
+importpic                    = "Import";
+
+newpic                      = "New Album";
+
+importhere                  = "Import";
+
+exportpic                   = "Export to iPhone";
+
+exporthere                   = "Export";
+
+movetoPhone                  = "Exported to Album";
+
+export                       = "Export";
+
+picture                      = "Photos";
+
+video                        = "Videos";
+
+files                        = "File";
+
+now                          = "In process of";
+
+hardversion                  = "Firmware Version";
+
+setting                      = "Settings";
+
+kunercapacity                = "KUNER Case Storage";
+
+kunerpower                   = "KUNER Case Battery";
+
+mymusic                      = "Music";
+
+versionupdating              = "Version Update";
+
+kelinkbroken                = "KUNER Case Disconnected";
+
+formatting                   = "Formatting KUNER Case";
+
+safenumber                   = "Security Code Binding";
+
+aboutkuner                   = "About KUNER";
+
+capacity                     = "Storage";
+
+unsafebind                   = "Not bound";
+
+safebind                     = "Bound";
+
+kunerdilatation             = "KUNER";
+
+chooseedpicture              = " Selected ";
+
+unknowfile                  = "Unrecognizable Format";
+
+firnillname                 = "Folder name cannot be emptied";
+
+movplayfail                  = "Open Failed";
+
+direxisted                  = "The file with that name may already exist";
+
+copypictureyes               = "Are you sure you want to copy the selected items?";
+
+calculatefiles               = "Calculating the size of files...";
+
+copyingpicture               = "Copying...";
+
+updating                     = "Updating...";
+
+checkfail_again              = "Failed to check for updates, try again.";
+
+updatefail                   = "Update failed";
+
+serverfail_again             = "Network connection failed. Please try again later";
+
+updatefail_again             = "Failed to update. Please try again later";
+
+update_success               = "Updated Successfully";
+
+updatefail_check_again       = "Update failed. Please check the network and try again";
+
+checkfail_timeout_again      = "Failed to check for updates, request timeout, try again";
+
+checkfail_checkserveragain   = "Failed to check for updates. Please check the network and try again";
+
+checking                     = "Checking…";
+
+formaty                      = "Would you like to format KUNER Case?";
+
+importsafetobind             = "Enter Security Code to Blind";
+
+findnew                      = "New Version Found";
+
+context                      = "Update Content";
+
+formatting_wait              = "Formatting...";
+
+importsafetounbind           = "Enter security code to release binding with iPhone";
+
+updated                      = "Installed";
+
+unupdated                    = "Not installed";
+
+filesbad_format              = "File system is damaged and needs to be formatted";
+
+sure                         = "OK";
+
+formatwilldeleteall_copy     = "Are you sure you want to format KUNER Case?";
+
+fail                         = "Failed";
+
+copyfail                     = "Copy Failed";
+
+moveoutfail                  = "Export Failed";
+
+moveoutfailbig               = "Export Failed: Size of file is larger than 500MB";
+
+moveoutfailspace             = "Export Failed: Not enough storage in iPhone.";
+
+again                        = "Retry";
+
+jump                         = "Skip";
+
+ignore                       = "Ignore";
+
+pleaseselect                 = "Select";
+
+copyfilesy                   = "Are you sure you want to copy the selected items?";
+
+deletealert                  = "Delete";
+
+deletefilesy                 = "Are you sure you want to delete the selected items?";
+
+deletefilea                 = "Are you sure you want to delete";
+deletefileb                 = "？";
+
+calculate                    = "Calculating the size of files...";
+
+deleting                    = "Deleting";
+
+myvideo                      = "Videos";
+
+voice                        = "Music";
+
+copymusicy                   = "Are you sure you want to copy the selected items?";
+
+copying_voice                = "Copying...";
+
+copyfail_exit                = "Copy Failed";
+
+connectkuner                 = "Connect to KUNER Case";
+
+connecting_wait              = "Connecting…";
+
+safenumbercheck              = "Security Code Verification";
+
+imputsafenumber              = "Enter Security Code";
+
+checknumber                  = "Verification Code";
+
+safenum                      = "Security Code";
+
+safenumberfault              = "Incorrect Security Code";
+
+select                       = "Select";
+
+edit                         = "Edit";
+
+deletepicture               = "Are you sure you want to delete the selected items?";
+
+loading                      = "Loading…";
+
+yes                          = "OK";
+
+no                           = "Cancel";
+
+deletethispicture            = "Are you sure you want to delete the selected items?";
+
+fault                        = "Error";
+
+unopenfiles                  = "Unable to Open File";
+
+know                         = "Known";
+
+back                         = "Back";
+
+tips                         = "Tip";
+
+gpsnotice                   = "You are currently on a mobile network, confirm to download the file？";
+
+netchangenotice             = "You are currently on a mobile network, would you like to continue to download the file？";
+
+unsupportfilelayout          = "This file type is not supported.";
+
+deletethesongy               = "Are you sure you want to delete the selected items?";
+
+nopicture                    = "No Content in iPhone";
+
+copypicturey                = "Are you sure you want to copy the selected items？";
+
+deleteselectpicturey        = "Are you sure you want to delete the selected items？";
+
+document                     = "Documents";
+
+inportsafenumbertounbinding  = "Enter security code to bind the iPhone and KUNER Case";
+
+notips                       = "Never remind";
+
+inport6number                = "Please enter 6 numbers or letters";
+
+updatenow                    = "Upgrade Now";
+
+donotupdate                  = "Maybe Later ";
+
+checkupdate                  = "Check for Updates";
+
+nonewversion                 = "Your version is up to date.";
+
+closekukeu                   = "Connect to iPhone";
+
+changekukeu                  = "Connect to PC";
+
+allgb                        = "Total ";
+
+redaygb                      = "Used";
+
+canuse                       = "Available";
+
+suanzhong                    = "Calculating...";
+
+shengyudianliang             = "Remaining Power in Case";
+
+unknown                      = "Unknown";
+
+calculating                  = "Calculating...";
+
+surpluspower                 = "Remaining Storage";
+
+myfile                       = "File";
+
+areyoucopy                   = "Are you sure you want to copy the selected items?";
+
+areyoudelete                 = "Are you sure you want to delete the selected items?";
+
+isplaying                    = "Playing";
+
+selectpicture                = "Select";
+
+format_surey                 = "Formatting will erase all content and settings. Please confirm again";
+
+formatagainy                 = "Would you like to format again?";
+
+formatdone                   = "Format Completed";
+
+safenumberfault_again        = "Incorrect security code. Please try again";
+
+selected                    = "Selected";
+
+copypicturefinish            = "Copy Completed";
+
+formatfinish                 = "Format Completed";
+
+safenum_length_short         = "Password must contain at least 6 character, try again.";
+
+phpower                      = "iPhone Battery";
+
+phcapacity                   = "iPhone Capacity";
+
+phcpu                        = "CPU Occupation";
+
+phram                        = "iPhone RAM";
+
+phused                       = "Used";
+
+phfree                      = "Available";
+
+phof                        = "";
+
+phversion                    = "System Version";
+
+phcanuse                     = "Available";
+
+phtotal                      = "Total";
+
+phminute                     = "Min";
+
+phhour                       = "H";
+
+songisnone                   = "Playing Now";
+
+appversion                   = "Software Version";
+
+gujianversion               = "Firmware Version";
+
+importantnotice              = "KUNER Case is activated";
+
+importantmsg                 = "KUNER APP cache will auto-transfer to KUNER Case.";
+
+movephoto                   = "Exporting from iPhone to KUNER device...";
+
+deletephoto                  = "Clearing cache in KUNER APP...";
+
+movevideo                   = "Exporting from iPhone to KUNER device...";
+
+deletevideo                  = "Clearing cache in KUNER APP...";
+
+movemusic                   = "Exporting from iPhone to KUNER device...";
+
+deletemusic                  = "Clearing cache in KUNER APP...";
+
+movedoc                     = "Exporting from iPhone to KUNER device...";
+
+moveother                    = "Exporting from iPhone to KUNER Case...";
+
+openway                     = "open";
+
+deletedoc                    = "Clearing cache in KUNER APP...";
+
+deleteother                  = "Clearing cache in KUNER APP...";
+
+gujianxinxi                  = "Firmware Info";
+
+pluspower                    = "KUNER Battery";
+
+powering                     = "KUNER Case Charging";
+
+powerfull                    = "Fully Charged";
+
+getsizerror                  = "Reading Data Error";
+
+loadsizeing                  = "Loading...";
+
+adding = "loading...";
+
+setting                      = "Settings";
+
+resourceDownload             = "Resources download";
+
+lastupdatetime               = "Last refresh time";
+
+releasetorefresh             = "Release to refresh the page";
+
+pulltorefresh                = "Dropdown to refresh the page";
+
+refreshing                   = "Refreshing…";
+
+newversion                   = "New Version";
+
+updateThing                  = "Update Content:";
+
+browse                       = "Browse";
+
+read                         = "Read";
+
+readying                    = "Loading...";
+
+readyfail                   = "Sorry,fail to get ready,please try later";
+
+browsestatus                 = "Browse Mode";
+
+readingstatus                = "Read Mode";
+
+close                        = "Close";
+
+loadingfail                  = "Page Loading Failed";
+
+checknetandtryrefresh       = "Please check the network and try to dropdown and refresh";
+
+downtoke                     = "Download to KUNER Case";
+
+downtophone                  = "Download to iPhone";
+
+indownloadlist               = "Added to download";
+
+checknetandtryagain          = "Please check the network and try again!";
+
+sorry                        = "Sorry";
+
+cannotplay                   = "The song cannot be played";
+
+nextsong                     = "Next";
+
+gofindmusic                  = "NO Playing";
+
+playmusicround               = "Loop";
+
+playmusicone                 = "Single";
+
+playmusicrandom              = "Shuffle";
+
+operatetoofast               = "Operate Too Frequently";
+
+nowmusiclist                 = "Playlists";
+
+selectmusic                  = "Select Playlist";
+
+selectcountunit             = "";
+
+downloadlist                 = "Download list";
+
+allstart                     = "Start all";
+
+allpause                     = "Pause all";
+
+downloading                  = "Downloading";
+
+downloaded                   = "Completed";
+
+suretodeletedownloadunit     = "Confirm to delete the selected task?";
+
+pause                        = "Pause";
+
+downloadfail                 = "Failed to download";
+
+downloadfailwithouturl      = "Failed to download,No get Url";
+
+waiting                      = "Waiting…";
+
+notinstallwx                = "You haven’t installed WeChat yet";
+
+wxversionlowtip             = "Sorry, your WeChat version is too old to support the share function";
+
+imageistoobig                = "Compressed photo is too large";
+
+notplace                    = "Memory space is insufficient";
+
+deletecachefile              = "Deleting temporary files";
+
+formatekuke                  = "Formatting";
+
+kukesavingmodel              = "Battery Saving Mode";
+
+closesecret                  = "Close Security Code";
+
+opensecret                   = "Security Code";
+
+issuretodelete              = "Confirm to delete files？";
+
+formattipone                 = "If you have used the password function, your password will be automatically closed after formatting.";
+
+formattiptwo                 = "KUKE will automatically the close password function, and new data will not be protected! ";
+
+formattipthree               = "You will lose your pictures, videos, music and documents, etc. permanently";
+
+formattipfour                = "This will delete all media and document, and reset setting and security code";
+
+formattiptosure              = "Erase All Content and Settings";
+
+inputsecret                  = "Enter Security Code";
+
+setsecret                    = "Set Security Code";
+
+checksecret                  = "Re-enter your Security Code";
+
+findsecret                   = "Retrieve Security Code";
+
+setsecrettipone              = "Setup password and protect privacy";
+
+setsecrettiptwo              = "Other iPhones connecting to your KUNER Case are unable to see files without password.";
+
+faultsecret                  = "Incorrect";
+
+useqtoclosesecret            = "Use password to close security code";
+
+entersecret                  = "Enter Security Code";
+
+forgetsecret                 = "Forget";
+
+enterq                       = "Answer Security Question";
+
+thesecret                    = "Security Code is";
+
+setquestion                  = "Set Security Code";
+
+secretnotsame                = "Two times the password is different. Please enter again";
+
+closesecretsuccess           = "Security code was successfully closed";
+
+closesecretfail              = "Security code was failed to close";
+
+secretquestion               = "Question";
+
+selectquestion               = "Select a Security Question";
+
+answerofq                    = "Answer";
+
+enteranswerofq               = "Enter Security Answer (1 ~ 25 chars)";
+
+otherq                       = "Others";
+
+questionone                  = "Which city do you like best?";
+questiontwo                  = "Which day is your father’s birthday?";
+questionthree                = "Which day is your mother’s birthday?";
+questionfour                 = "Which animal do you like best?";
+questionfive                 = "Which music star do you like best?";
+questionsix                  = "Which football team do you like best?";
+questionseven                = "What is your ideal job?";
+questioneight                = "What is your student number?";
+questionnine                 = "What is your job number?";
+questionten                  = "Where is your place of birth?";
+questioneleven               = "What is your father’s name?";
+questiontwelve               = "What is your mother’s name?";
+
+selectq                      = "Select Question:";
+
+keepuseoldsecret             = "Continue to use the old password?";
+
+resetsecret                  = "Set New Security Code";
+
+faultquestion                = "Incorrect Security Answer";
+
+issuretosetsecret            = "Confirm to setup password?";
+
+setsecrettip                 = "The password will protect your privacy on the data in KUNER Case, and if you forget the password, the password security will be unable to retrieve the password";
+
+formattingTips              = "When you forget password and secret password protection. If you want to continue to use the KUKE need to format the cool shell. Please Click on this—>";
+
+formatkuke                  = "Format the KUKE";
+
+suretosetsecretquestion     = "Security question & answer are limited 1-25 characters.";
+
+setsecretsuccess             = "Set Security Code Successfully";
+
+setsecretfail                = "Set Security Code Failed";
+
+entersecretquestion          = "Enter security question (1-25 characters)";
+
+cooperate                    = "Connect Us";
+
+formatdefault               = "Format";
+
+selectfile                  = "Select files";
+
+musicdirnamenotempty        = "Songs list cannot be emptied!";
+
+photodirnamenotempty         = "Album name cannot be emptied";
+
+namecontantunuseablechar     = "Illegal characters are contained in the name";
+
+existmusicdirname            = "The Playlist already existed";
+
+existphotodirname            = "The album already existed";
+
+createfail                   = "Create Failed";
+
+createmusicdirname           = "New Playlist";
+
+entermusicdirname            = "Enter a Name for This Playlist";
+
+createphotodirname           = "New Album";
+
+enterphotodirname            = "Enter a Name for This Album";
+
+openunknowfileusethirdAPP    = "The file type is unrecognized, would you like to open it by other APP";
+
+yesto                        = "Yes";
+
+notto                        = "No";
+
+downloadnotcomplete          = "Download uncompleted";
+
+musicdirname                 = "Playlist";
+
+photodirname                 = "Album";
+
+keunlink                     = "KUNER Case Disconnected";
+
+moveveidoout                 = "Export videos from KUNER into iPhone";
+
+selectvideo                  = "Select";
+
+getting                      = "Getting…";
+
+phonevideo                   = "iPhone video recording";
+
+phonephoto                   = "iPhone album";
+
+phonenotvideotip             = "Please create an album in iPhone to store the exported videos";
+
+photounabletosys             = "Photo cannot be exported to iPhone album";
+
+phonenotvideotiptwo          = "No video in iPhone album";
+
+shareto                      = "Share to";
+
+wxfriend                     = "WeChat friends";
+
+wxcircle                     = "Moments";
+
+sorrytosharegif              = "Sorry, GIF format cannot be shared";
+
+notgetphotodetail            = "Don’t retrieve the shared pictures info. Please try again later";
+
+lowpowertiptitle             = "Low Batttery Reminder";
+
+tenpecentpowertip            = "10% battery remaining. Please charge KUNER Case.";
+
+belowtenpecentpowertip       = "KUNER Case battery is less than 10% remaining";
+
+existdirwhencopydir          = "Selected folder already exists in the target folder. Please reselect";
+
+deletefailforunlinkke        = "KUNER Case Disconnected, delete failed";
+
+opearateerror                = "Operation Error";
+
+goontodo                     = "Continue";
+
+allphoto                     = "All pictures";
+
+photohidden                  = "Hide";
+
+photobig                     = "Panorama Photos";
+
+photocollect                 = "Collection";
+
+photodelete                  = "Recently deleted";
+
+photoall                     = "Camera roll";
+
+photodelay                   = "Time lapse shooting";
+
+photoslow                    = "Slow motion";
+
+copying                     = "Copying";
+
+photoadd                     = "Recently added";
+
+photolian                    = "Burst shot";
+
+importfail                   = "Import Failed";
+
+importfailoffile             = "Cannot Get File";
+
+importfailofbigfile         = "Import Failed，File is too big(more than 4G)";
+
+importphoto                  = "Importing";
+
+importvideo                  = "Importing";
+
+localnotitipone              = "New photo found, import them to KUNER quickly";
+
+localnotitiptwo             = "Memory space on iPhone is insufficient! Please quickly use KUKE to download videos and music, to free up the space of iPhone";
+
+localnotitipthree           = "Videos, music and photo are stored in KUNER, release more storage for iPhone.";
+
+gettingkukeinfo              = "Loading...";
+
+readinfoerror                = "Reading data error. Please try formatting.";
+readinfoerrorforrestart     = "Reading data error. Please try restart application .";
+
+topicTitle                  = "Topic";
+
+videocacle                  = "该视频已缓存";
+
+musiccacle                  = "该音乐已缓存";
+
+selectvideocecle            = "选择下载的剧集";
+
+selectfilececle            = "选择下载的文件";
+
+dataClean                   = "手机空间清理";
+
+selectaudiocecle            = "选择下载的音乐";
+
+
+allcacle                    = "已全部缓存";
+
+versionnotips               = "此版本不再提示";
+
+deletedownloadedtip         = "文件已被删除，是否要删除此下载记录？";
+
+downloadbroken              = "酷壳已经断开，无法下载当前资源。";
+downloaderrorspace          = "酷壳空间不足，无法下载当前资源。";
+downloadtitle               = "下载提示";
+loadfailed                  = "加载失败，请重试";
+
+downloadingfulltip          = "当前已达下载任务上限（99个）,请稍后添加新的任务";
+downloadingtip              = "下载任务进行中";
+
+neterror =	"网络错误，请检查网络";
+
+downloadvideopath = "Downloaded Video";
+
+downloadaudiopath = "Downloaded Audio";
+
+downloadpicturepath = "Downloaded Picture";
+
+downloaddocumentpath = "Downloaded Document";
+
+updatetips = "Firmware Update";
+
+updatetipscontent = "KUNER case in the upgrade process will be disconnected. Please manually open KUNER case after 5 seconds.";
+
+charge_model_know = "OK";
+charge_model_title = "Battery Saving Mode:";
+charge_model_msg = "1. To save power of KUNER Case and prolong service time of memory expansion\n2. Power of iPhone and KUNER Case declines in same proportion\n3. KUNER Case stops charging iPhone 10 minutes after app runs in the back office";
+charge_model_msg_two = "To save power of KUNER Case and prolong service time of memory expansion.KUNER Case stops charging iPhone 10 minutes after app runs in the back office";
+
+pdf_cannotopen = "This documents more than 80MB size is not supported. Please open it with 3rd-party app.";
+
+calculatefilessize              = "Calculating the size";
+
+share = "Share";
+
+more = "More";
+
+batterysaving = "Battery Saving";
+
+downloadingpicmsg = "Picture is downloading...";
+
+// 酷壳V1.2.5新增
+notshowtopictip      = "The special topics cannot be shown on homepage";
+
+copyto               = "Copy file to";
+
+savefield            = "Save Field";
+
+copynokuke           = "It is not connected to the kuke. Please connect to the kuke, then reopen the file.";
+
+copysavetokuke       = "Copy and save the file to the memory of kuke";
+
+musictimerplay       = "set-time music playing";
+
+dontopen             = "Don’t Open";
+
+playcurrentmusic     = "Stop after playing current music selection";
+
+savetofeedback       = "Feedback Message";
+
+weixinfeedback       = "WeChat Feedback";
+
+attentionweixin      = "Follow the WeChat public account of kuke, and feed back the problems online.";
+
+weixinnum            = "WeChat Public Account: kuner2016";
+
+copyed               = "Already Copied";
+
+weixinkehufeed       = "WeChat Customer Service Feedback";
+
+kehuphone            = "Customer’s Service Hotline";
+
+takekefuphone        = "Call Customer’s Service Hotline";
+
+phoneinfo            = "iPhone Information";
+
+kukeofficemall       = "KUNER Official Store";
+
+sendkuketofd         = "Recommend kuke to a friend";
+
+gotoweixinfeedback   = "Go to WeChat to give feedback";
+
+dontsupportthetype   = "Don’t support this file type temporarily";
+
+useotherappopen      = "Please use some other apps to open this file";
+
+otherappopen         = "Other apps to open";
+
+noplayingmusic       = "There is no music playing currently";
+
+kukedisc                     = "Introduction of kuke";
+openkuke                     = "Please open the kuke";
+presspowerbtn                = "Press and hold the power button on the back of the kuke for 3 seconds to open";
+kukedisctitle                = "Would you like to use the memory expansion function without turning on the power button？>";
+
+tabuncopiedtitle             = "Not Imported";
+tabcopiedtitle               = "Imported";
+tabtotaltitle                = "All";

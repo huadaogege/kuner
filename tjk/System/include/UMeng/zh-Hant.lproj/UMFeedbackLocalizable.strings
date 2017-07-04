@@ -1,0 +1,53 @@
+/*
+ Localizable.strings
+ UMFeedback
+ 
+ Created by amoblin on 14/9/26.
+ 
+ */
+
+"Feedback" = "Feedback";
+"Close" = "Close";
+"OK" = "OK";
+"Send again?" = "Send again?";
+"Resend" = "Resend";
+
+"Just now" = "Just now";
+"%d minutes ago" = "%d minutes ago";
+"%d hours ago" = "%d hours ago";
+"Yesterday" = "Yesterday";
+"The day before yesterday" = "The day before yesterday";
+
+"Update info" = "Update info";
+"Save" = "Save";
+
+"Phone" = "Phone";
+"Email" = "Email";
+"Other" = "Other";
+
+"QQ: %@ Phone: %@ \nEmail: %@ Other: %@" = "QQ: %@ Phone: %@ \nEmail: %@ Other: %@";
+
+"Cancel" = "Cancel";
+"Send" = "Send";
+
+"for QQ number" = "for QQ number";
+"for phone number" = "for phone number";
+"for email address" = "for email address";
+"anything else?" = "anything else?";
+
+"new feedback" = "new feedback";
+"View" = "View";
+
+"Swipe up to cancel" = "Swipe up to cancel";
+"Release to cancel" = "Release to cancel";
+
+"Hold to speak" = "Hold to speak";
+"Release to stop" = "Release to stop";
+
+"Too short!" = "Too short!";
+"Hold on record button and speak, at least 1 second." = "Hold on record button and speak, at least 1 second.";
+
+
+"Permission denied" = "Permission denied";
+
+"Setting Permission for recording in Settings -> Privacy -> Microphone" = "Setting Permission for recording in Settings -> Privacy -> Microphone";

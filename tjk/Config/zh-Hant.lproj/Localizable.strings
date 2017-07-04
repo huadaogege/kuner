@@ -1,0 +1,860 @@
+
+sysDelete                   = "刪除檔";
+sysCopy                     = "複製檔";
+sysCopyError                = "複製異常";
+sysDeleteError              = "刪除異常";
+sysNoFree                   = "容量不足";
+
+photoIntoError              = "導入異常";
+
+time_h                      = "小時";
+time_min                    = "分鐘";
+
+copymaintitle               = "我的酷殼";
+
+main_nowU                   = "酷殼連接電腦模式";
+
+main_longSize               = "請通過資料線連接電腦對酷殼檔進行操作";
+
+main_linkLongSize           = "請在電腦上打開我的電腦對酷殼檔進行操作";
+
+checkupdate                 = "檢查更新";
+
+about                       = "關於我們";
+
+feedback                    = "問題回饋";
+
+deleteing                   = "正在刪除檔";
+
+dataClean                   = "手機空間清理";
+
+deleteingOn                 = "正在刪除";
+
+gujianv                     = "韌體版本";
+
+snl                         = "SN序號";
+
+privatel                    = "隱私權聲明";
+
+music                       = "音樂";
+
+rootPath                    = "檔案管理員";
+
+delete                      = "刪除";
+
+cancel                      = "取消";
+
+phone                       = "手機";
+
+kuner                       = "酷殼";
+
+done                        = "取消";
+
+dataasync                   = "資料同步中...";
+
+switching                   = "切換中...";
+
+newfoldertitle              = "新建新資料夾";
+
+newfodercreating           = "新建中...";
+
+inputfoldername             = "輸入資料夾名稱";
+
+newfolder                   = "新建";
+
+folder                      = "資料夾";
+
+newfolderfail               = "新建資料夾失敗";
+
+checkall                    = "全選";
+
+photo_empty                 = "iPhone中相簿為空";
+
+pleasreopen                 = "請新建相簿";
+
+picture_tishione            = "請在iPhone的“設置-隱私-照片”選項中，";
+
+picture_tishitwo            = "允許酷殼訪問你的手機相簿";
+
+copy                        = "複製";
+
+copying                     = "正在複製";
+
+copyhere                    = "複製至此";
+
+importpic                   = "由手機導入";
+
+newpic                      = "新建相冊";
+
+importhere                  = "確定導入";
+
+exportpic                   = "匯出至手機";
+
+exporthere                  = "確定匯出";
+
+movetoPhone                 = "圖片匯出至相簿";
+
+export                      = "匯出";
+
+picture                     = "圖片";
+
+video                       = "影片";
+
+files                       = "文件";
+
+now                         = "正在";
+
+hardversion                 = "韌體版本";
+
+setting                     = "設置";
+
+kunercapacity               = "酷殼容量";
+
+kunerpower                  = "酷殼電量";
+
+mymusic                     = "我的音樂";
+
+versionupdating             = "版本更新";
+
+kelinkbroken                = "酷殼斷開連接！";
+
+formatting                  = "酷殼格式化";
+
+safenumber                  = "安全碼綁定";
+
+aboutkuner                  = "關於酷殼";
+
+capacity                    = "容量";
+
+unsafebind                  = "未邦定";
+
+safebind                    = "已綁定";
+
+kunerdilatation             = "酷殼";
+
+chooseedpicture             = "已選擇 張照片";
+
+unknowfile                  = "無法識別的檔案格式...";
+
+firnillname                 = "資料夾名稱不可為空！";
+
+movplayfail                 = "影片播放失敗";
+
+direxisted                  = "新建的資料夾已經存在！";
+
+copypictureyes              = "確定要複製所選照片嗎？";
+
+calculatefiles              = "正在計算所選文件大小";
+
+copyingpicture              = "正在複製圖片";
+
+updating                    = "正在更新";
+
+checkfail_again             = "檢查更新失敗，請重試";
+
+updatefail                  = "更新失敗";
+
+serverfail_again            = "網路連接失敗，請稍後重試！";
+
+updatefail_again            = "更新失敗，請稍後重試！";
+
+update_success              = "更新成功";
+
+updatefail_check_again      = "更新失敗，請檢查網路後重試";
+
+checkfail_timeout_again     = "檢查更新失敗，超時連結，請重試";
+
+checkfail_checkserveragain  = "檢查更新失敗，請檢查網路後重試";
+
+checking                    = "檢測中請稍後…";
+
+formaty                     = "是否對酷殼格式化";
+
+importsafetobind            = "輸入安全碼進行手機與酷殼綁定";
+
+findnew                     = "發現新版本";
+
+context                     = "更新內容";
+
+formatting_wait             = "正在格式化，請稍後";
+
+importsafetounbind          = "輸入已綁定安全碼與酷殼解除綁定";
+
+updated                     = "已安裝";
+
+unupdated                   = "未安裝";
+
+filesbad_format             = "檔案系統損壞, 需要格式化";
+
+sure                        = "確定";
+
+formatwilldeleteall_copy    = "確定要格式化嗎？此操作將刪除所有資料，建議先備份相關重要檔。";
+
+fail                        = "失敗";
+
+copyfail                    = "複製失敗";
+
+moveoutfail                 = "匯出失敗";
+
+moveoutfailbig              = "匯出失敗(原因：文件大於500M)";
+
+moveoutfailspace            = "匯出失敗，請檢查手機剩餘可用空間";
+
+again                       = "重試";
+
+jump                        = "跳過";
+
+ignore                      = "忽略";
+
+pleaseselect                = "請選擇";
+
+copyfilesy                  = "確定要複製所選檔嗎？";
+
+deletealert                 = "刪除提醒";
+
+deletefilesy                = "確定要刪除所選檔嗎？";
+
+deletefilea                 = "確定刪除";
+deletefileb                 = "嗎？";
+
+calculate                   = "正在計算複製檔大小";
+
+deleting                    = "正在刪除";
+
+myvideo                     = "我的影片";
+
+voice                       = "音訊";
+
+copymusicy                  = "確定要複製所選音訊嗎？";
+
+copying_voice               = "正在複製音訊";
+
+copyfail_exit               = "複製失敗，點擊確定後窗口退出";
+
+connectkuner                = "請連接酷殼";
+
+connecting_wait             = "正在連接酷殼, 請稍後···";
+
+safenumbercheck             = "安全碼驗證";
+
+imputsafenumber             = "請輸入手機與酷殼綁定的安全碼";
+
+checknumber                 = "驗證碼";
+
+safenum                     = "安全碼";
+
+safenumberfault             = "安全碼錯誤";
+
+select                      = "選擇";
+
+edit                        = "編輯";
+
+deletepicture               = "確定要刪除所選圖片嗎？";
+
+loading                     = "載入中....";
+
+yes                         = "確定";
+
+no                          = "取消";
+
+deletethispicture           = "確定要刪除該圖片嗎？";
+
+fault                       = "錯誤";
+
+unopenfiles                 = "無法打開文件";
+
+know                        = "知道";
+
+back                        = "返回";
+
+tips                        = "提示";
+
+gpsnotice                   = "當前為行動網路，確定要下載該資源嗎？";
+
+netchangenotice             = "當前為行動網路，是否要繼續下載資源？";
+
+unsupportfilelayout         = "不支持該檔案格式";
+
+deletethesongy              = "確定要刪除此歌曲嗎？";
+
+nopicture                   = "手機中沒有任何圖片";
+
+copypicturey                = "確定要複製所選圖片嗎？";
+
+deleteselectpicturey        = "確定要刪除所選圖片嗎？";
+
+document                    = "文檔";
+
+inportsafenumbertounbinding = "輸入安全碼進行手機與酷殼的綁定";
+
+notips                      = "不再提示";
+
+inport6number               = "請輸入6位元數位或字母";
+
+updatenow                   = "立即升級";
+
+donotupdate                 = "暫不升級";
+
+pickLoading                 = "圖片載入中....";
+
+checkupdate                 = "檢測更新";
+
+nonewversion                = "當前版本已是最新版本!";
+
+kukequickgo                 = "酷殼連接供電";
+
+closekukeu                  = "酷殼連接手機";
+
+changekukeu                 = "酷殼連接電腦";
+
+allgb                       = "總容量";
+
+redaygb                     = "已用容量";
+
+canuse                      = "可用容量";
+
+suanzhong                   = "計算中";
+
+shengyudianliang            = "酷殼剩餘電量";
+
+unknown                     = "未知";
+
+calculating                 = "計算中";
+
+surpluspower                = "剩餘容量";
+
+myfile                      = "我的文件";
+
+fastpower                   = "酷殼快速充電";
+
+areyoucopy                  = "確定要複製所選檔嗎?";
+
+areyoudelete                = "確定要刪除所選檔嗎?";
+
+isplaying                   = "正在播放";
+
+selectpicture               = "選擇圖片";
+
+format_surey                = "格式化後酷殼檔將遺失，請再次確認！";
+
+formatfail                  = "由於斷線導致格式化失敗，請重新格式化！";
+
+formatagainy                = "是否再次對酷殼進行格式化操作?";
+
+formatdone                  = "格式化完成";
+
+safenumberfault_again       = "安全碼錯誤請重新輸入";
+
+selected                    = "已選";
+
+copypicturefinish           = "圖片複製完成";
+
+formatfinish                = "格式化已完成";
+
+safenum_length_short        = "安全碼長度不為6位，請重新輸入！";
+
+phpower                     = "手機電量";
+
+phcapacity                  = "手機容量";
+
+phcpu                       = "CPU佔用";
+
+phram                       = "手機記憶體";
+
+phused                      = "已用";
+
+phfree                      = "可用";
+
+phof                        = "的";
+
+phversion                   = "系統版本";
+
+phcanuse                    = "可使用";
+
+phtotal                     = "共";
+
+phminute                    = "分鐘";
+
+phhour                      = "小時";
+
+songisnone                  = "音樂播放";
+
+appversion                  = "軟體版本";
+
+gujianversion               = "固件版本";
+
+importantnotice             = "酷殼啟動成功~";
+
+importantmsg                = "酷殼應用中的文件將自動轉移至酷殼";
+
+movephoto                   = "正在複製圖片目錄";
+
+deletephoto                 = "正在清除圖片目錄所占手機空間";
+
+movevideo                   = "正在複製影片目錄";
+
+deletevideo                 = "正在清除影片目錄所占手機空間";
+
+movemusic                   = "正在複製音樂目錄";
+
+deletemusic                 = "正在清除音樂目錄所占手機空間";
+
+movedoc                     = "正在複製文檔目錄";
+
+moveother                   = "正在移動其他文件";
+
+openway                     = "打開";
+
+deletedoc                   = "正在清除文檔目錄所占手機空間";
+
+deleteother                 = "正在清除其他文件所占手機空間";
+
+gujianxinxi                 = "韌體信息";
+
+pluspower                   = "酷殼剩餘電量";
+
+powering                    = "酷殼正在充電";
+
+powerfull                   = "電量已充滿";
+
+getsizerror                 = "酷殼讀取異常";
+
+loadsizeing                 = "正在讀取存儲資訊...";
+
+adding="正在載入中...";
+
+setting                     = "設置";
+
+resourceDownload            = "資源下載";
+
+lastupdatetime              = "上次刷新時間";
+
+releasetorefresh            = "離開刷新頁面...";
+
+pulltorefresh               = "下拉刷新頁面...";
+
+refreshing                  = "刷新中...";
+
+newversion                  = "新版本";
+
+updateThing                 = "更新內容:";
+
+browse                      = "流覽";
+
+read                        = "閱讀";
+
+readying                    = "正在準備中...";
+
+readyfail                   = "抱歉，準備失敗，請稍候重試";
+
+browsestatus                = "當前為流覽模式";
+
+readingstatus               = "當前為閱讀模式";
+
+close                       = "關閉";
+
+loadingfail                 = "頁面載入失敗";
+
+checknetandtryrefresh       = "請檢查網路後，嘗試點擊螢幕刷新";
+
+downtoke                    = "下載至酷殼";
+
+downtophone                 = "下載至手機";
+
+indownloadlist              = "已加入下載";
+
+checknetandtryagain         = "請檢查網路後，再次嘗試！";
+
+sorry                       = "抱歉";
+
+cannotplay                  = "該歌曲無法播放";
+
+nextsong                    = "下一首";
+
+gofindmusic                 = "當前沒有音樂播放";
+
+playmusicround              = "迴圈播放";
+
+playmusicone                = "單曲播放";
+
+playmusicrandom             = "隨機播放";
+
+operatetoofast              = "操作過於頻繁";
+
+nowmusiclist                = "當前歌單";
+
+selectmusic                 = "選擇歌單";
+
+selectcountunit             = "項";
+
+downloadlist                = "下載列表";
+
+allstart                    = "全部開始";
+
+allpause                    = "全部暫停";
+
+downloading                 = "下載中";
+
+downloaded                  = "已完成";
+
+suretodeletedownloadunit    = "確定要刪除所選任務嗎？";
+
+pause                       = "暫停";
+
+downloadfail                = "下載失敗";
+
+downloadfailwithouturl      = "下載失敗，未獲取到下載地址";
+
+waiting                     = "等待中...";
+
+notinstallwx                = "您尚未安裝微信";
+
+wxversionlowtip             = "抱歉，您的微信版本過低，不支援分享功能";
+
+imageistoobig               = "壓縮後的圖片過大";
+
+notplace                    = "空間不足";
+
+deletecachefile             = "正在刪除暫存檔案";
+
+formatekuke                 = "格式化酷殼";
+
+kukesavingmodel             = "酷殼省電模式";
+
+closesecret                 = "關閉密碼";
+
+opensecret                  = "密碼保護";
+
+issuretodelete              = "確定要刪除嗎？";
+
+formattipone                = "如果你使用了密碼功能，格式化後將自動為你關閉密碼。";
+
+formattiptwo                = "酷殼將自動關閉密碼功能，新的資料不受保護！";
+
+formattipthree              = "你會永遠失去你的圖片，影片，音樂，文檔等檔。";
+
+formattipfour               = "酷殼內的資料會全部刪除，且不可恢復！";
+
+formattiptosure             = "格式化後會怎麼樣？";
+
+inputsecret                 = "輸入密碼";
+
+setsecret                   = "設置密碼";
+
+checksecret                 = "確認密碼";
+
+findsecret                  = "找回密碼";
+
+setsecrettipone             = "設置密碼，保護隱私！";
+
+setsecrettiptwo             = "其他手機連接你的酷殼、不知道密碼就看不到檔哦~";
+
+faultsecret                 = "密碼錯誤";
+
+useqtoclosesecret           = "使用密保關閉安全碼";
+
+entersecret                 = "輸入安全碼";
+
+forgetsecret                = "忘記密碼";
+
+enterq                      = "回答密保問題";
+
+thesecret                   = "最終安全碼是";
+
+setquestion                 = "設置密保";
+
+secretnotsame               = "兩次密碼不同，請重新輸入";
+
+closesecretsuccess          = "安全碼關閉成功";
+
+closesecretfail             = "安全碼關閉失敗";
+
+secretquestion              = "密保問題";
+
+selectquestion              = "選擇密保問題";
+
+answerofq                   = "密保答案";
+
+enteranswerofq              = "輸入密保答案（1~25個字元）";
+
+otherq                      = "其他";
+
+questionone                 = "您最喜歡哪一個城市？";
+questiontwo                 = "您的父親的生日是哪天？";
+questionthree               = "您的母親的生日是哪天？";
+questionfour                = "您最喜歡什麼動物？";
+questionfive                = "您最喜歡哪一個明星？";
+questionsix                 = "您最喜歡哪一個球隊？";
+questionseven               = "您理想的工作是什麼？";
+questioneight               = "您的學號是什麼？";
+questionnine                = "您的工號是什麼？";
+questionten                 = "您的出生地是哪裡？";
+questioneleven              = "您父親的姓名是什麼？";
+questiontwelve              = "您母親的姓名是什麼？";
+
+selectq                     = "選擇問題";
+
+keepuseoldsecret            = "繼續使用舊密碼？";
+
+resetsecret                 = "設置新密碼";
+
+faultquestion               = "密保答案錯誤";
+
+issuretosetsecret           = "確定設置密碼？";
+
+setsecrettip                = "密碼將對您的酷殼內資料進行隱私保護，忘記密碼，密保將無法找回密碼";
+
+formattingTips              = "密碼、密保全部忘記時，若想繼續使用酷殼需要格式化酷殼。點擊—>";
+
+formatkuke                  = "格式化酷殼";
+
+suretosetsecretquestion     = "確認密保問題或答案滿足1~25個字元~";
+
+setsecretsuccess            = "安全碼設置成功";
+
+setsecretfail               = "安全碼設置失敗";
+
+entersecretquestion         = "輸入密保問題（1~25個字元）";
+
+cooperate                   = "商務合作";
+
+formatdefault               = "格式化";
+
+kuketeach                   = "酷殼教學";
+
+selectfile                  = "選擇檔";
+
+musicdirnamenotempty        = "歌單名稱不可為空！";
+
+photodirnamenotempty        = "相冊名稱不可為空！";
+
+namecontantunuseablechar    = "名稱包含不合法的字元！";
+
+existmusicdirname           = "需要創建的歌單已經存在！";
+
+existphotodirname           = "需要創建的相冊已經存在！";
+
+createfail                  = "創建失敗!";
+
+createmusicdirname          = "創建歌單";
+
+entermusicdirname           = "輸入歌單名稱";
+
+createphotodirname          = "創建相冊";
+
+enterphotodirname           = "輸入相冊名稱";
+
+openunknowfileusethirdAPP   = "該檔案類型無法識別，是否選擇其他應用打開";
+
+yesto                       = "是";
+
+notto                       = "否";
+
+downloadnotcomplete         = "下載未完成";
+
+musicdirname                = "歌單";
+
+photodirname                = "相冊";
+
+keunlink                    = "殼已異常斷開";
+
+moveveidoout                = "影片匯出至手機相簿";
+
+selectvideo                 = "選擇影片";
+
+getting                     = "正在獲取中...";
+
+phonevideo                  = "手機影片";
+
+phonephoto                  = "手機相簿";
+
+phonenotvideotip            = "請在手機中新建相簿，存儲匯出影片";
+
+photounabletosys            = "圖片無法匯出到系統相簿";
+
+phonenotvideotiptwo         = "手機相冊中無影片";
+
+shareto                     = "分享到";
+
+wxfriend                    = "微信好友";
+
+wxcircle                    = "朋友圈";
+
+sorrytosharegif             = "抱歉，無法分享本地GIF格式的檔";
+
+notgetphotodetail           = "暫未獲取到分享的圖片資訊，請稍候再試";
+
+lowpowertiptitle            = "低電提醒";
+
+tenpecentpowertip           = "酷殼電量還剩10%，請及時充電！";
+
+belowtenpecentpowertip      = "酷殼電量不足10%，請及時充電！";
+
+existdirwhencopydir         = "複製資料夾包含於目的檔案夾，請重新選擇";
+
+deletefailforunlinkke       = "殼已斷開，刪除失敗！";
+
+opearateerror               = "操作發生異常";
+
+goontodo                    = "繼續";
+
+allphoto                    = "所有圖片";
+
+photohidden                 = "隱藏";
+
+photobig                    = "全景";
+
+photocollect                = "收藏";
+
+photodelete                 = "最近刪除";
+
+photoall                    = "相機膠捲";
+
+photodelay                  = "延時拍攝";
+
+photoslow                   = "慢動作";
+
+photoadd                    = "最近增加";
+
+photolian                   = "連拍";
+
+importfail                  = "導入失敗";
+
+importfailoffile            = "導入失敗(檔獲取失敗)";
+
+importfailofbigfile         = "導入失敗，檔過大(大於4G)";
+
+importphoto                 = "導入圖片";
+
+importvideo                 = "導入視頻";
+
+localnotitipone             = "拍了新照片？快導進酷殼備份吧~";
+
+localnotitiptwo             = "手機存儲空間不足！快使用酷殼下載視頻、音樂，不占手機空間噠";
+
+localnotitipthree           = "視頻、音樂、圖片占了太多手機空間！使用【我的酷殼】分擔 >>";
+
+gettingkukeinfo             = "正在獲取酷殼容量資訊...";
+
+readinfoerror               = "資料讀取異常，請嘗試格式化。";
+
+readinfoerrorforrestart     = "資料讀取異常，請嘗試重啟應用。";
+
+topicTitle                  = "專題";
+
+videocacle                  = "該影片已緩存";
+
+musiccacle                  = "該音樂已緩存";
+
+selectvideocecle            = "選擇下載的劇集";
+
+selectfilececle            = "選擇下載的檔";
+
+selectaudiocecle            = "選擇下載的音樂";
+
+allcacle                    = "已全部緩存";
+
+versionnotips               = "此版本不再提示";
+
+deletedownloadedtip         = "檔已被刪除，是否要刪除此下載記錄？";
+
+downloadbroken              = "酷殼已經斷開，無法下載當前資源。";
+downloaderrorspace          = "酷殼空間不足，無法下載當前資源。";
+downloadtitle               = "下載提示";
+loadfailed                  = "載入失敗，請重試";
+
+downloadingfulltip          = "當前已達下載任務上限（99個）,請稍後添加新的任務";
+downloadingtip              = "下載任務進行中";
+
+neterror =	"網路錯誤，請檢查網路";
+
+downloadvideopath = "下載的影片";
+
+downloadaudiopath = "下載的音樂";
+
+downloadpicturepath = "下載的圖片";
+
+downloaddocumentpath = "下載的文檔";
+
+updatetips = "更新提示";
+
+updatetipscontent = "固件需要更新，過程中酷殼會斷開連接，5秒後請手動開啟酷殼。";
+
+charge_model_know = "知道了";
+charge_model_title = "酷殼省電模式描述：";
+charge_model_msg = "1.節省酷殼自身電量，延長擴容功能使用時間\n2.手機與酷殼電量同比下降                      \n3.APP推至後臺時，10分鐘後酷殼停止為iphone充電";
+charge_model_msg_two = "開啟省電模式，酷殼節省自身電量，用於延長擴容功能使用時間。為了節省電量，當APP退至後臺，無幕後工作時酷殼會斷開連接。";
+
+pdf_cannotopen = "暫不支持80M大小以上文檔，是否嘗試協力廠商打開";
+
+calculatefilessize = "正在計算大小";
+
+share = "分享";
+
+more = "更多";
+
+batterysaving = "省電模式";
+
+downloadingpicmsg = "圖片正在下載中...";
+
+
+// 酷殼V1.2.5新增
+notshowtopictip      = "該專題將不會在首頁顯示～";
+
+copyto = "複製檔案至";
+
+savefield = "保存位置";
+
+copynokuke = "未連接酷殼。請連接酷殼後重新打開此檔";
+
+copysavetokuke = "將檔案保存到酷殼存儲";
+
+musictimerplay = "音樂定時播放";
+
+dontopen = "不開啟";
+
+playcurrentmusic = "播放完當前聲音停止";
+
+savetofeedback = "留言回饋";
+
+weixinfeedback = "微信回饋";
+
+attentionweixin = "關注酷殼微信帳號,微信線上回饋問題。";
+
+weixinnum = "微信帳號:kuner2016";
+
+copyed = "已拷貝";
+
+weixinkehufeed = "微信客服回饋";
+
+kehuphone = "客服電話";
+
+takekefuphone = "撥打客服電話";
+
+phoneinfo = "手機信息";
+
+kukeofficemall = "酷能量官方商城";
+
+sendkuketofd = "推薦酷殼給好友";
+
+gotoweixinfeedback = "去微信回饋";
+
+dontsupportthetype = "暫不支援該類型檔";
+
+useotherappopen = "你可以使用其他應用程式打開此檔";
+
+otherappopen = "其他方式打開";
+
+noplayingmusic  = "當前沒有正在播放的音樂";
+
+kukedisc                    = "酷殼說明";
+openkuke                    = "請開啟酷殼";
+presspowerbtn               = "長按酷殼背面電源鍵3秒開機";
+kukedisctitle               = "僅使用擴容功能，不想開啟電源鍵？>";
+
+tabuncopiedtitle            = "未導入";
+tabcopiedtitle              = "已導入";
+tabtotaltitle               = "全部";
+
+
+
